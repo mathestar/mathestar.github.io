@@ -145,7 +145,7 @@ defaults:
   home:
     heading: "Mathstar Website"
     subheading: "Explaining Math for dummies"
-    banner: "Your image url"
+    banner: "/assets/images/banners/mathestarBanner.jpg"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
