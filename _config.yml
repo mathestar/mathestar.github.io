@@ -43,7 +43,7 @@ author: matestar
 copyright: "Unpublished Work  (cleft)  2017-{currentYear}  {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  This is just a small website where I explain math for dummies.
+  Das ist eine kleine webseite wo ich mathe wie für einen fünf jährigen erkläre.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mathestar.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
@@ -143,8 +143,8 @@ night_mode: "on"
 # Page default value
 defaults:
   home:
-    heading: "Mathstar Website"
-    subheading: "Explaining Math for dummies"
+    heading: "Mathstar Webseite"
+    subheading: "Mathe für dumme erklärt"
     banner: "/assets/images/banners/mathestarBanner.jpg"
 
 # Banner default settings
