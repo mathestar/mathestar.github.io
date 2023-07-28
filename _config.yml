@@ -43,7 +43,7 @@ author: matestar
 copyright: "Unpublished Work  (cleft)  2017-{currentYear}  {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Das ist eine kleine webseite wo ich mathe wie für einen fünf jährigen erkläre.
+  Mathe leicht erklärt – so simpel wie für einen Fünfjährigen.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mathestar.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
@@ -144,8 +144,8 @@ night_mode: "on"
 defaults:
   home:
     heading: "Mathstar Webseite"
-    subheading: "Mathe erklärt wie für einen fünf jährigen."
-    banner: "https://d31xsmoz1lk3y3.cloudfront.net/big/438108.jpg?v=1581104665"
+    subheading: "Mathe leicht erklärt – so simpel wie für einen Fünfjährigen."
+    banner: "/assets/images/banners/mathestarBanner.jpg"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
