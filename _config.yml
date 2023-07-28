@@ -145,7 +145,8 @@ defaults:
   home:
     heading: "Mathstar Webseite"
     subheading: "Mathe leicht erklärt - so simpel wie für einen Fünfjährigen."
-
+    banner: "/assets/images/banners/mathestarBanner.jpeg"
+    
 # Banner default settings
 # These banner settings are for global banner default, but you can also
 # config it by the front matter for one specific post
