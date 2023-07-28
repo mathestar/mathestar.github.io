@@ -20,6 +20,8 @@ Das Pythagoras-Theorem lautet:
 </div><br>
 Hierbei stehen "a" und "b" für die Längen der beiden Katheten des rechtwinkligen Dreiecks, während "c" die Länge der Hypotenuse ist - die Seite, die dem rechten Winkel gegenüberliegt.
 
+![Desktop View](/assets/images/math/pythagoras.png)
+
 ## Anwendung des Satzes von Pythagoras
 
 Um den Satz von Pythagoras anzuwenden, folge diesen einfachen Schritten:
