@@ -144,8 +144,8 @@ night_mode: "on"
 defaults:
   home:
     heading: "Mathstar Webseite"
-    subheading: "Mathe für dumme erklärt"
-    banner: "/assets/images/banners/mathestarBanner.jpg"
+    subheading: "Mathe erklärt wie für einen fünf jährigen."
+    banner: "https://d31xsmoz1lk3y3.cloudfront.net/big/438108.jpg?v=1581104665"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
