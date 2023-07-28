@@ -24,9 +24,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@domain.com
-author: GitHub User
+title: Mathestar
+email: david@pyt.academy
+author: david-star-git
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -40,21 +40,19 @@ author: GitHub User
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
+copyright: "Unpublished Work  (cleft)  2017-{currentYear}  {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is just a small website where I explain math for dummies.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. https://example.com
-favicon: "" # the favicon for your site
+url: "https://mathestar.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+favicon: "/assets/images/icons/mathestarLogo.png" # the favicon for your site
 
 # Yat date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 yat:
-  date_format: "%b %d, %Y"
+  date_format: "%d %b, %Y"
 
 # If you want more debug log, you can set true
 # debug: false
@@ -73,34 +71,22 @@ yat:
 # sitemap: false
 
 # If you want to change site language, you can set lang option
-# lang: "en"  # default lang is en
+lang: "de"  # default lang is en
 
 # Translate languges
 # langs refer to https://cloud.google.com/translate/docs/languages
-# translate_langs:
-#   - lang: en
-#     img: https://cdn.countryflags.com/thumbs/united-states-of-america/flag-400.png
-#     text: English
-#
-#   - lang: fr
-#     img: https://cdn.countryflags.com/thumbs/france/flag-400.png
-#     text: French
-#
-#   - lang: zh-CN
-#     img: https://cdn.countryflags.com/thumbs/china/flag-400.png
-#     text: Chinese(Simple)
-#
-#   - lang: ja
-#     img: https://cdn.countryflags.com/thumbs/japan/flag-400.png
-#     text: Japanese
-#
-#   - lang: ko
-#     img: https://cdn.countryflags.com/thumbs/south-korea/flag-400.png
-#     text: Korean
-#
-#   - lang: ru
-#     img: https://cdn.countryflags.com/thumbs/russia/flag-400.png
-#     text: Russian
+translate_langs:
+  - lang: de
+    img: https://cdn.countryflags.com/thumbs/germany/flag-400.png
+    text: German
+
+  - lang: en
+    img: https://cdn.countryflags.com/thumbs/united-states-of-america/flag-400.png
+    text: English
+
+  - lang: es
+    img: https://cdn.countryflags.com/thumbs/paraguay/flag-400.png
+    text: Paraguay
 
 # You can choose a theme color
 # Default theme colors as below:
@@ -135,7 +121,7 @@ yat:
 # it will be always kept on every visit (i.e. no matter
 # the browser is closed or not)
 #
-# night_mode: "auto"
+night_mode: "on"
 
 # Code badge setting
 # You can enable or disable the code badge and so on
@@ -155,11 +141,11 @@ yat:
 #   - about.md
 
 # Page default value
-# defaults:
-#   home:
-#     heading: "Your awesome heading"
-#     subheading: "Your awesome subheading"
-#     banner: "Your image url"
+defaults:
+  home:
+    heading: "Mathstar Website"
+    subheading: "Explaining Math for dummies"
+    banner: "Your image url"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
