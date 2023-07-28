@@ -26,7 +26,7 @@
 
 title: Mathestar
 email: david@pyt.academy
-author: david-star-git
+author: matestar
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -46,7 +46,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is just a small website where I explain math for dummies.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://mathestar.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://mathestar.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
 favicon: "/assets/images/icons/mathestarLogo.png" # the favicon for your site
 
 # Yat date format
