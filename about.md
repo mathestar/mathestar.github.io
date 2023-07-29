@@ -1,29 +1,28 @@
 ---
 layout: about
-title: Über uns
+title: Sobre nosotros
 ---
-# Über uns
 
-## Willkommen bei Mathstar!
+# Sobre nosotros
 
-Wir sind ein leidenschaftliches Team von Mathematik-Enthusiasten, das es sich zur Aufgabe gemacht hat, Mathematik für Schülerinnen und Schüler der 10. bis 12. Klasse auf eine spannende und verständliche Weise zu erklären. Unser Ziel ist es, Mathematik für jeden zugänglich zu machen und das Lernen zu einem unterhaltsamen Erlebnis zu gestalten.
+## ¡Bienvenidos a Mathestar!
+Somos un apasionado equipo de entusiastas de las matemáticas que se ha propuesto explicar las matemáticas de una manera emocionante y comprensible para estudiantes de 10º a 12º grado. Nuestro objetivo es hacer que las matemáticas sean accesibles para todos y convertir el aprendizaje en una experiencia entretenida.
 
-## Unsere Mission:
+## Nuestra misión:
+- Fomentar la comprensión y la emoción por las matemáticas.
+- Utilizar un enfoque claro y comprensible para hacer que los conceptos complejos sean más fáciles de entender.
+- Ayudar a los estudiantes a alcanzar su máximo potencial matemático y ganar confianza en esta materia.
+- Ofrecer recursos gratuitos que estén disponibles en todo momento y en cualquier lugar, para que el aprendizaje sea flexible e individualizado.
 
-- Wir wollen das Verständnis und die Begeisterung für Mathematik fördern.
-- Wir setzen auf eine klare und anschauliche Erklärungsweise, um komplexe Konzepte leichter erfassbar zu machen.
-- Unser Ziel ist es, Schülerinnen und Schülern dabei zu helfen, ihr volles mathematisches Potenzial auszuschöpfen und Selbstvertrauen in diesem Fach zu gewinnen.
-- Wir bieten kostenlose Ressourcen an, die jederzeit und überall zugänglich sind, damit das Lernen flexibel und individuell gestaltet werden kann.
+Nuestro equipo está formado por entusiastas de las matemáticas con amplia experiencia docente y una sólida formación en diversas disciplinas matemáticas. Creemos que todos tienen la capacidad de comprender y dominar las matemáticas, solo se necesita el enfoque y el apoyo adecuados.
 
-Unser Team besteht aus Mathematik-Enthusiasten mit umfangreicher Lehrerfahrung und einem starken Hintergrund in verschiedenen mathematischen Disziplinen. Wir sind davon überzeugt, dass jeder die Fähigkeit hat, Mathematik zu verstehen und zu beherrschen - es braucht nur die richtige Herangehensweise und Unterstützung.
+## Cómo trabajamos:
 
-## Wie wir arbeiten:
+- Nuestros contenidos son cuidadosamente investigados, creados y revisados para garantizar que sean de alta calidad y precisos.
+- Utilizamos un lenguaje claro y sencillo para hacer que las ideas matemáticas complejas sean más accesibles.
+- Se utilizan gráficos, diagramas y ejemplos para respaldar visualmente los contenidos de aprendizaje y clarificarlos.
+- Valoramos el feedback de nuestros usuarios para mejorar continuamente nuestros contenidos y satisfacer las necesidades de nuestra comunidad.
 
-- Unsere Inhalte werden sorgfältig recherchiert, erstellt und überprüft, um sicherzustellen, dass sie qualitativ hochwertig und genau sind.
-- Wir verwenden eine klare und einfache Sprache, um komplexe mathematische Ideen zugänglicher zu machen.
-- Grafiken, Diagramme und Beispiele werden verwendet, um die Lerninhalte visuell zu unterstützen und zu veranschaulichen.
-- Feedback von unseren Nutzern ist uns wichtig, um unsere Inhalte kontinuierlich zu verbessern und den Bedürfnissen unserer Community gerecht zu werden.
+Ya sea que necesites ayuda con las tareas, prepararte para exámenes o simplemente buscar una comprensión más profunda de las matemáticas, ¡en Mathestar estás en el lugar correcto! Queremos que descubras las matemáticas con alegría y explores el mundo de los números y las fórmulas con entusiasmo.
 
-Egal, ob du Unterstützung bei Hausaufgaben, Prüfungsvorbereitung oder einfach nur ein tieferes Verständnis für Mathematik suchst - bei Mathstar bist du richtig! Wir möchten, dass du Mathematik mit Freude entdeckst und die Welt der Zahlen und Formeln mit Begeisterung erforschst.
-
-Wir sind stets bestrebt, unseren Beitrag zur Förderung der mathematischen Bildung zu leisten und sind dankbar für jeden, der Teil unserer Mathstar-Community wird.
+Siempre nos esforzamos por contribuir a la promoción de la educación matemática y estamos agradecidos con todos aquellos que forman parte de nuestra comunidad de Mathestar.

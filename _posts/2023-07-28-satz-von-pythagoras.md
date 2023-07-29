@@ -1,75 +1,77 @@
 ---
 layout: post
-title: Der Satz von Pythagoras einfach erklärt
-subtitle: Der Satz von Pythagoras ist eine der grundlegenden Ideen in der Geometrie
+title: El Teorema de Pitágoras explicado de forma sencilla
+subtitle: El Teorema de Pitágoras es una de las ideas fundamentales en Geometría
 categories: [Geometrie]
 tags: [pythagoras-satz, rechtwinkelige-dreiecke, katheten, hypotenuse, geometrische-berechnungen]
 ---
-# Der Satz von Pythagoras einfach erklärt
-Der Satz von Pythagoras ist eine der grundlegenden Ideen in der Geometrie und wurde nach dem antiken griechischen Mathematiker Pythagoras benannt. Er hilft uns, die Länge einer Seite in einem rechtwinkligen Dreieck zu berechnen, wenn wir die Längen der anderen beiden Seiten kennen.
 
-## Was ist ein rechtwinkeliges Dreieck?
-Ein rechtwinkliges Dreieck ist ein Dreieck, das einen 90-Grad-Winkel hat. Dieser rechte Winkel wird oft mit einem kleinen Quadrat markiert.
+# El Teorema de Pitágoras explicado de forma sencilla
+El Teorema de Pitágoras es una de las ideas fundamentales en Geometría y lleva el nombre del antiguo matemático griego Pitágoras. Nos ayuda a calcular la longitud de un lado en un triángulo rectángulo cuando conocemos las longitudes de los otros dos lados.
 
-## Das Satz von Pythagoras
-Stell dir vor, du hast ein magisches Dreieck. Dieses Dreieck hat eine ganz besondere Eigenschaft. Wenn du die Länge von einer Seite kennst, kannst du die Länge von einer anderen Seite berechnen. Lass uns sehen, wie das funktioniert!
+## ¿Qué es un triángulo rectángulo?
+Un triángulo rectángulo es un triángulo que tiene un ángulo de 90 grados. Este ángulo recto a menudo se marca con un pequeño cuadrado.
 
-Das magische Dreieck hat drei Seiten: eine lange Seite, eine mittellange Seite und eine kurze Seite. Die lange Seite ist wie der König, und wir nennen sie die Hypotenuse. Die beiden anderen Seiten sind die Untertanen und wir nennen sie Katheten.
+## El Teorema de Pitágoras
+Imagina que tienes un triángulo mágico. Este triángulo tiene una propiedad muy especial. Si conoces la longitud de un lado, puedes calcular la longitud de otro lado. ¡Veamos cómo funciona!
 
-Der Satz von Pythagoras sagt uns, dass die Länge der langen Seite (Hypotenuse) zum Quadrat gleich der Summe der Quadrate der beiden kurzen Seiten (Katheten) ist. Hört sich kompliziert an, oder? Lass uns das einfacher machen!
+El triángulo mágico tiene tres lados: un lado largo, un lado medio y un lado corto. El lado largo es como el rey y lo llamamos la hipotenusa. Los otros dos lados son los súbditos y los llamamos catetos.
 
-Stell dir vor, du hast ein großes Quadrat, das so groß ist wie die lange Seite des Dreiecks. Dann hast du zwei kleinere Quadrate, die so groß sind wie die kurzen Seiten des Dreiecks. Wenn du die Fläche der beiden kleinen Quadrate addierst, ist sie genauso groß wie die Fläche des großen Quadrats. Das ist der Satz von Pythagoras in Aktion!
+El Teorema de Pitágoras nos dice que el cuadrado de la longitud del lado largo (hipotenusa) es igual a la suma de los cuadrados de los dos lados cortos (catetos). Suena complicado, ¿verdad? ¡Vamos a simplificarlo!
 
-**Das Satz von Pythagoras lautet:**<br>
+Imagina que tienes un cuadrado grande que es del mismo tamaño que el lado largo del triángulo. Luego tienes dos cuadrados más pequeños que son del mismo tamaño que los lados cortos del triángulo. Si sumas el área de los dos cuadrados más pequeños, será igual al área del cuadrado grande. ¡Eso es el Teorema de Pitágoras en acción!
+
+**El Teorema de Pitágoras dice:**<br>
 a² + b² = c²<br>
 
-Hierbei stehen "a" und "b" für die Längen der beiden Katheten des rechtwinkligen Dreiecks, während "c" die Länge der Hypotenuse ist - die Seite, die dem rechten Winkel gegenüberliegt.
+Aquí, "a" y "b" son las longitudes de los dos catetos del triángulo rectángulo, mientras que "c" es la longitud de la hipotenusa, el lado que está opuesto al ángulo recto.
+
 
 ![Desktop View](/assets/images/math/pythagoras.png)
 
-## Anwendung des Satzes von Pythagoras
-Um den Satz von Pythagoras anzuwenden, folge diesen einfachen Schritten:
+## Aplicación del Teorema de Pitágoras
+Para aplicar el Teorema de Pitágoras, sigue estos sencillos pasos:
 
-1. Identifiziere die Seiten des Dreiecks: "a", "b" und "c".
-2. Setze die Werte in das Theorem ein: Quadriere die Länge von "a" und die Länge von "b", addiere die Quadrate und erhalte das Quadrat der Länge von "c".
-3. Berechne die Länge der Hypotenuse "c": Ziehe die Quadratwurzel von der Summe aus Schritt 2.
+1. Identifica los lados del triángulo: "a", "b" y "c".
+2. Sustituye los valores en el teorema: eleva al cuadrado la longitud de "a" y la longitud de "b", suma los cuadrados y obtendrás el cuadrado de la longitud de "c".
+3. Calcula la longitud de la hipotenusa "c": saca la raíz cuadrada de la suma del paso 2.
 
-### Beispiel
-Angenommen, du hast ein rechtwinkliges Dreieck mit den Seitenlängen:<br>
+### Ejemplo
+Supongamos que tienes un triángulo rectángulo con las longitudes de los lados:<br>
 a = 3 cm<br>
 b = 4 cm
 
-**Schritt 1:**<br>
+**Paso 1:**<br>
 3² + 4² = 9 + 16 = 25
 
-**Schritt 2:**<br>
+**Paso 2:**<br>
 c = √25 = 5 cm
 
-Also ist die Länge der Hypotenuse "c" 5 cm.
+Así que la longitud de la hipotenusa "c" es 5 cm.
 
-## Berechnung von "a" oder "b"
-Manchmal kennen wir die Länge der Hypotenuse "c" und eine der Katheten, z. B. "a". Um die Länge der anderen Kathete "b" zu berechnen, kannst du das Satz von Pythagoras umstellen:
+## Cálculo de "a" o "b"
+A veces conocemos la longitud de la hipotenusa "c" y uno de los catetos, por ejemplo, "a". Para calcular la longitud del otro cateto "b", puedes despejar el Teorema de Pitágoras:
 
 a² = c² - b²<br>
 b² = c² - a²
 
-Dann ziehe die Quadratwurzel von "b²", um die Länge von "b" zu erhalten.
+Luego, saca la raíz cuadrada de "b²" para obtener la longitud de "b".
 
-### Beispiel
-Angenommen, du hast ein rechtwinkliges Dreieck mit den Seitenlängen:<br>
+### Ejemplo
+Supongamos que tienes un triángulo rectángulo con las longitudes de los lados:<br>
 c = 5 cm<br>
 a = 3 cm
 
-**Um "b" zu berechnen:**<br>
+**Para calcular "b":**<br>
 b² = 5² - 3² = 25 - 9 = 16<br>
 b = √16 = 4 cm
 
-Also ist die Länge der Kathete "b" 4 cm.
+Así que la longitud del cateto "b" es 4 cm.
 
-## Warum ist der Satz von Pythagoras wichtig?
-Der Satz von Pythagoras ist nicht nur in der Geometrie von Bedeutung, sondern hat auch zahlreiche Anwendungen in verschiedenen Bereichen wie Architektur, Ingenieurwesen und Physik. Er ermöglicht uns, Seitenlängen rechtwinkliger Dreiecke zu berechnen und komplexe Probleme zu lösen.
+## ¿Por qué es importante el Teorema de Pitágoras?
+El Teorema de Pitágoras no solo es importante en Geometría, sino que también tiene numerosas aplicaciones en diferentes áreas como Arquitectura, Ingeniería y Física. Nos permite calcular longitudes de lados de triángulos rectángulos y resolver problemas complejos.
 
-## Fazit
-Der Satz von Pythagoras ist ein leistungsstarkes Werkzeug, um uns bei der Berechnung der Seitenlängen rechtwinkliger Dreiecke zu helfen. Durch seine Anwendung können wir eine Vielzahl interessanter Probleme lösen und die faszinierende Welt der geometrischen Zusammenhänge entdecken.
+## Conclusión
+El Teorema de Pitágoras es una herramienta poderosa que nos ayuda a calcular longitudes de lados de triángulos rectángulos. Su aplicación nos permite resolver una variedad de problemas interesantes y descubrir el fascinante mundo de las relaciones geométricas.
 
-Probier es selbst aus und tauche ein in die spannende Welt des Satzes von Pythagoras!
+¡Pruébalo tú mismo y sumérgete en el emocionante mundo del Teorema de Pitágoras!
