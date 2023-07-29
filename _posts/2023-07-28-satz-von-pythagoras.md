@@ -11,11 +11,10 @@ Der Satz von Pythagoras ist eine der grundlegenden Ideen in der Geometrie und wu
 ## Was ist ein rechtwinkeliges Dreieck?
 Ein rechtwinkliges Dreieck ist ein Dreieck, das einen 90-Grad-Winkel hat. Dieser rechte Winkel wird oft mit einem kleinen Quadrat markiert.
 
-## Das Pythagoras-Theorem
-Das Pythagoras-Theorem lautet:
-<div style="float: left;">
-  <img src="https://latex.codecogs.com/png.image?\inline&space;\dpi{110}\bg{black}a^{2}&plus;b^{2}=c^{2}" />
-</div><br>
+## Das Satz von Pythagoras
+Das Satz von Pythagoras lautet:<br>
+a² + b² = c²<br>
+
 Hierbei stehen "a" und "b" für die Längen der beiden Katheten des rechtwinkligen Dreiecks, während "c" die Länge der Hypotenuse ist - die Seite, die dem rechten Winkel gegenüberliegt.
 
 ![Desktop View](/assets/images/math/pythagoras.png)
@@ -29,56 +28,33 @@ Um den Satz von Pythagoras anzuwenden, folge diesen einfachen Schritten:
 
 ### Beispiel
 Angenommen, du hast ein rechtwinkliges Dreieck mit den Seitenlängen:<br>
-<div style="float: left;">
-<img src="https://latex.codecogs.com/png.image?\inline&space;\dpi{110}\bg{black}a=3" />
-</div><br>
-<div style="float: left;">
-<img src="https://latex.codecogs.com/png.image?\inline&space;\dpi{110}\bg{black}b=4" />
-</div><br>
-
-Schritt 1:<br>
-<div style="float: left;">
-<img src="https://latex.codecogs.com/png.image?\inline&space;\dpi{110}\bg{black}3^{2}&plus;4^{2}=9&plus;16=25" />
-</div><br>
+a = 3 cm<br>
+b = 4 cm
 
 Schritt 2:<br>
-<div style="float: left;">
-<img src="https://latex.codecogs.com/png.image?\inline&space;\dpi{110}\bg{black}c=\sqrt{25}=5cm" />
-</div><br>
+3² + 4² = 9 + 16 = 25
+
+Schritt 3:<br>
+c = √25 = 5 cm
 
 Also ist die Länge der Hypotenuse "c" 5 cm.
 
 ## Berechnung von "a" oder "b"
 Manchmal kennen wir die Länge der Hypotenuse "c" und eine der Katheten, z. B. "a". Um die Länge der anderen Kathete "b" zu berechnen, kannst du das Satz von Pythagoras umstellen:
 
-<div style="float: left;">
-<img src="https://latex.codecogs.com/png.image?\inline&space;\dpi{110}\bg{black}a^{2}=c^{2}-b^{2}" />
-</div><br>
-
-<div style="float: left;">
-<img src="https://latex.codecogs.com/png.image?\inline&space;\dpi{110}\bg{black}b^{2}=c^{2}-a^{2}" />
-</div><br>
+a² = c² - b²<br>
+b² = c² - a²
 
 Dann ziehe die Quadratwurzel von "b²", um die Länge von "b" zu erhalten.
 
 ### Beispiel
 Angenommen, du hast ein rechtwinkliges Dreieck mit den Seitenlängen:<br>
-<div style="float: left;">
-<img src="https://latex.codecogs.com/png.image?\inline&space;\dpi{110}\bg{black}c=5cm" />
-</div><br>
-
-<div style="float: left;">
-<img src="https://latex.codecogs.com/png.image?\inline&space;\dpi{110}\bg{black}b=3cm" />
-</div><br>
+c = 5 cm<br>
+a = 3 cm
 
 Um "b" zu berechnen:<br>
-<div style="float: left;">
-<img src="https://latex.codecogs.com/png.image?\inline&space;\dpi{110}\bg{black}b^{2}=5^{2}-3^{2}=25-9=16" />
-</div><br>
-
-<div style="float: left;">
-<img src="https://latex.codecogs.com/png.image?\inline&space;\dpi{110}\bg{black}b=\sqrt{16}=4cm" />
-</div><br>
+b² = 5² - 3² = 25 - 9 = 16<br>
+b = √16 = 4 cm
 
 Also ist die Länge der Kathete "b" 4 cm.
 
