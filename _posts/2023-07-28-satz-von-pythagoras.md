@@ -12,6 +12,14 @@ Der Satz von Pythagoras ist eine der grundlegenden Ideen in der Geometrie und wu
 Ein rechtwinkliges Dreieck ist ein Dreieck, das einen 90-Grad-Winkel hat. Dieser rechte Winkel wird oft mit einem kleinen Quadrat markiert.
 
 ## Das Satz von Pythagoras
+Stell dir vor, du hast ein magisches Dreieck. Dieses Dreieck hat eine ganz besondere Eigenschaft. Wenn du die Länge von einer Seite kennst, kannst du die Länge von einer anderen Seite berechnen. Lass uns sehen, wie das funktioniert!
+
+Das magische Dreieck hat drei Seiten: eine lange Seite, eine mittellange Seite und eine kurze Seite. Die lange Seite ist wie der König, und wir nennen sie die Hypotenuse. Die beiden anderen Seiten sind die Untertanen und wir nennen sie Katheten.
+
+Der Satz von Pythagoras sagt uns, dass die Länge der langen Seite (Hypotenuse) zum Quadrat gleich der Summe der Quadrate der beiden kurzen Seiten (Katheten) ist. Hört sich kompliziert an, oder? Lass uns das einfacher machen!
+
+Stell dir vor, du hast ein großes Quadrat, das so groß ist wie die lange Seite des Dreiecks. Dann hast du zwei kleinere Quadrate, die so groß sind wie die kurzen Seiten des Dreiecks. Wenn du die Fläche der beiden kleinen Quadrate addierst, ist sie genauso groß wie die Fläche des großen Quadrats. Das ist der Satz von Pythagoras in Aktion!
+
 **Das Satz von Pythagoras lautet:**<br>
 a² + b² = c²<br>
 
