@@ -1,61 +1,62 @@
 ---
 layout: post
-title: Trigonometrie - Sinus, Kosinus und Tangens
-subtitle: Die faszinierende Welt der Trigonometrie
+title: Trigonometría - Seno, Coseno y Tangente
+subtitle: El fascinante mundo de la Trigonometría
 categories: [Geometrie]
 tags: [trigonometrie, sinus, kosinus, tangens, rechtwinklige-dreiecke, geometrische-berechnungen]
 ---
-# Trigonometrie: Sinus, Kosinus und Tangens in rechtwinkligen Dreiecken
 
-## Rechtwinklige Dreiecke
-In einem rechtwinkligen Dreieck gibt es einen Winkel von 90 Grad, den wir als rechten Winkel bezeichnen. Die gegenüberliegende Seite dieses Winkels wird als Gegenkathete (co) bezeichnet, die angrenzende Seite als Ankathete (ca) und die längste Seite gegenüber dem rechten Winkel wird als Hypotenuse (H) bezeichnet.
+# Trigonometría: Seno, Coseno y Tangente en triángulos rectángulos
+
+## Triángulos rectángulos
+En un triángulo rectángulo hay un ángulo de 90 grados, al que llamamos ángulo recto. El lado opuesto a este ángulo se llama cateto opuesto (co), el lado adyacente se llama cateto adyacente (ca) y el lado más largo opuesto al ángulo recto se llama hipotenusa (H).
 
 ![Desktop View](/assets/images/math/trig.png)
 
-### Sinus (sin)
-Der Sinus eines Winkels in einem rechtwinkligen Dreieck ist das Verhältnis der Länge der Gegenkathete (co) zur Länge der Hypotenuse (H).
+### Seno (sin)
+El seno de un ángulo en un triángulo rectángulo es la relación entre la longitud del cateto opuesto (co) y la longitud de la hipotenusa (H).
 
-*Sinus (sin) = Gegenkathete (co) ÷ Hypotenuse (H)*
+*Seno (sin) = Cateto opuesto (co) ÷ Hipotenusa (H)*
 
-Um den Sinus eines Winkels zu berechnen, teilen wir also einfach die Länge der Gegenkathete (co) durch die Länge der Hypotenuse (H). Der Sinus gibt uns an, wie groß der Winkel im Verhältnis zur Hypotenuse (H) ist. Ein großer Sinus-Wert bedeutet einen steilen Winkel, während ein kleiner Sinus-Wert auf einen flachen Winkel hinweist.
+Para calcular el seno de un ángulo, simplemente dividimos la longitud del cateto opuesto (co) entre la longitud de la hipotenusa (H). El seno nos indica qué tan grande es el ángulo en relación con la hipotenusa (H). Un valor de seno grande indica un ángulo pronunciado, mientras que un valor pequeño de seno indica un ángulo plano.
 
-### Kosinus (cos)
-Der Kosinus eines Winkels in einem rechtwinkligen Dreieck ist das Verhältnis der Länge der Ankathete (ca) zur Länge der Hypotenuse (H).
+### Coseno (cos)
+El coseno de un ángulo en un triángulo rectángulo es la relación entre la longitud del cateto adyacente (ca) y la longitud de la hipotenusa (H).
 
-*Kosinus (cos) = Ankathete (ca) ÷ Hypotenuse (H)*
+*Coseno (cos) = Cateto adyacente (ca) ÷ Hipotenusa (H)*
 
-Um den Kosinus eines Winkels zu berechnen, teilen wir die Länge der Ankathete (ca) durch die Länge der Hypotenuse (H). Der Kosinus gibt uns an, wie groß der Winkel im Verhältnis zur Hypotenuse (H) ist, aber aus einer anderen Perspektive als der Sinus. Wenn der Sinus groß ist, ist der Kosinus klein und umgekehrt. Das bedeutet, wenn ein Winkel steil ist, ist der andere Winkel flach und umgekehrt.
+Para calcular el coseno de un ángulo, dividimos la longitud del cateto adyacente (ca) entre la longitud de la hipotenusa (H). El coseno nos indica qué tan grande es el ángulo en relación con la hipotenusa (H), pero desde una perspectiva diferente al seno. Si el seno es grande, el coseno será pequeño y viceversa. Esto significa que si un ángulo es pronunciado, el otro ángulo será plano y viceversa.
 
-### Tangens (tan)
-Der Tangens eines Winkels in einem rechtwinkligen Dreieck ist das Verhältnis der Länge der Gegenkathete (co) zur Länge der Ankathete (ca).
+### Tangente (tan)
+La tangente de un ángulo en un triángulo rectángulo es la relación entre la longitud del cateto opuesto (co) y la longitud del cateto adyacente (ca).
 
-*Tangens (tan) = Gegenkathete (co) ÷ Ankathete (ca)*
+*Tangente (tan) = Cateto opuesto (co) ÷ Cateto adyacente (ca)*
 
-Der Tangens zeigt uns, wie groß der Winkel im Verhältnis zur Ankathete (ca) ist. Ein großer Tangens-Wert bedeutet einen steilen Winkel im Verhältnis zur Ankathete (ca), während ein kleiner Tangens-Wert auf einen flachen Winkel im Verhältnis zur Ankathete (ca) hinweist.
+La tangente nos muestra qué tan grande es el ángulo en relación con el cateto adyacente (ca). Un valor de tangente grande indica un ángulo pronunciado en relación con el cateto adyacente (ca), mientras que un valor pequeño de tangente indica un ángulo plano en relación con el cateto adyacente (ca).
 
-Diese einfachen Verhältnisse (Sinus, Kosinus und Tangens) helfen uns, die Beziehung zwischen den Seitenlängen und Winkeln in einem rechtwinkligen Dreieck zu verstehen und viele praktische Anwendungen in der Mathematik, Wissenschaft und Technik zu finden.
+Estas simples relaciones (Seno, Coseno y Tangente) nos ayudan a comprender la relación entre las longitudes de los lados y los ángulos en un triángulo rectángulo y tienen muchas aplicaciones prácticas en matemáticas, ciencias y tecnología.
 
-Probier es selbst aus und entdecke die faszinierende Welt der Trigonometrie!
+¡Pruébalo tú mismo y descubre el fascinante mundo de la Trigonometría!
 
-## Nicht rechtwinklige Dreiecke
-Für nicht rechtwinklige Dreiecke können wir den Satz von Cosinus und den Satz von Sinus verwenden, um Seitenlängen und Winkel zu berechnen.
+## Triángulos no rectángulos
+Para triángulos no rectángulos, podemos utilizar la Ley de Cosenos y la Ley de Senos para calcular longitudes de lados y ángulos.
 
-### Satz von Cosinus
-Der Satz von Cosinus besagt, dass das Quadrat einer Seite eines Dreiecks gleich der Summe der Quadrate der anderen beiden Seiten abzüglich des doppelten Produkts dieser Seiten und des Kosinus des entgegengesetzten Winkels ist.
+### Ley de Cosenos
+La Ley de Cosenos establece que el cuadrado de un lado de un triángulo es igual a la suma de los cuadrados de los otros dos lados menos el doble del producto de esos lados y el coseno del ángulo opuesto.
 
 *a² = b² + c² - 2 * b * c * cos(A)*<br>
 *b² = a² + c² - 2 * a * c * cos(B)*<br>
 *c² = a² + b² - 2 * a * b * cos(C)*
 
-Der Satz von Cosinus ermöglicht es uns, die Längen der Seiten eines nicht rechtwinkligen Dreiecks zu berechnen, wenn wir die Größe der Winkel und die Längen der anderen Seiten kennen.
+La Ley de Cosenos nos permite calcular las longitudes de los lados de un triángulo no rectángulo si conocemos el tamaño de los ángulos y las longitudes de los otros lados.
 
-### Satz von Sinus
-Der Satz von Sinus besagt, dass das Verhältnis der Länge einer Seite zu dem Sinus des entgegengesetzten Winkels in einem Dreieck konstant ist.
+### Ley de Senos
+La Ley de Senos establece que la razón de la longitud de un lado al seno del ángulo opuesto en un triángulo es constante.
 
-*a ÷ sin(A) = b ÷ sin(B) = c ÷ sin*(C)
+*a ÷ sin(A) = b ÷ sin(B) = c ÷ sin(C)*
 
-Mit Hilfe des Satzes von Sinus können wir die Längen der Seiten oder die Größe der Winkel in einem nicht rechtwinkligen Dreieck berechnen, wenn wir die Länge einer Seite und den entgegengesetzten Winkel kennen.
+Con la ayuda de la Ley de Senos, podemos calcular las longitudes de los lados o el tamaño de los ángulos en un triángulo no rectángulo si conocemos la longitud de un lado y el ángulo opuesto.
 
-Die Trigonometrie eröffnet uns eine faszinierende Welt der Berechnungen und geometrischen Zusammenhänge, die in vielen Bereichen Anwendung finden.
+La Trigonometría nos abre un mundo fascinante de cálculos y relaciones geométricas que se aplican en muchas áreas.
 
-Probier es selbst aus und entdecke die faszinierende Welt der Trigonometrie!
+¡Pruébalo tú mismo y descubre el fascinante mundo de la Trigonometría!

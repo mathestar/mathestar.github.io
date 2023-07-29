@@ -1,66 +1,66 @@
 ---
 layout: post
-title: Das binäre Zahlensystem einfach erklärt
-subtitle: Eine Reise in die Welt der Nullen und Einsen
+title: El sistema numérico binario explicado de manera sencilla
+subtitle: Un viaje al mundo de los ceros y unos
 categories: [Informatik, Zahlensystem]
 tags: [binär, dezimal, zahlensystem, umrechnung, bits, bytes, ascii, unicode]
 ---
 
-# Das binäre Zahlensystem einfach erklärt
-In der faszinierenden Welt der Computer verwenden wir das binäre Zahlensystem. Das hört sich vielleicht kompliziert an, aber keine Sorge, wir werden es ganz einfach erklären!
+# El sistema numérico binario explicado de manera sencilla
+En el fascinante mundo de las computadoras, utilizamos el sistema numérico binario. Puede sonar complicado, ¡pero no te preocupes, lo explicaremos de forma muy sencilla!
 
-## Das Dezimalsystem - Zahlen, die wir kennen
-Zuerst schauen wir uns das Dezimalsystem an, das wir im Alltag verwenden. Es besteht aus den Zahlen von 0 bis 9. Wenn wir eine Zahl schreiben, wie z.B. 123, dann hat jede Ziffer einen bestimmten Wert, je nachdem, wo sie steht. Die erste Ziffer von rechts ist die Einer-Stelle, die zweite ist die Zehner-Stelle, die dritte ist die Hunderter-Stelle und so weiter.
+## El sistema decimal: números que conocemos
+Primero, veamos el sistema decimal que utilizamos en nuestra vida cotidiana. Consiste en los números del 0 al 9. Cuando escribimos un número, como por ejemplo 123, cada dígito tiene un valor específico según su posición. El primer dígito de la derecha es el lugar de las unidades, el segundo es el lugar de las decenas, el tercero es el lugar de las centenas y así sucesivamente.
 
-## Das binäre Zahlensystem - Eine Welt aus Nullen und Einsen
-Im binären Zahlensystem haben wir nur zwei Zahlen: die 0 und die 1. Das mag wenig klingen, aber es ist unglaublich mächtig! In der binären Welt haben wir keine Zehner-Stelle oder Hunderter-Stelle, sondern nur die Einer-Stelle und die Zweier-Stelle.
+## El sistema numérico binario: un mundo de ceros y unos
+En el sistema numérico binario, solo tenemos dos números: el 0 y el 1. Puede parecer poco, ¡pero es increíblemente poderoso! En el mundo binario, no tenemos lugar de las decenas o lugar de las centenas, solo tenemos lugar de las unidades y lugar de los dobles.
 
-## Bits und Bytes - Die Bausteine der Daten
-In der Computerwelt sind die kleinsten Bausteine für Daten die sogenannten "Bits". Ein Bit ist entweder eine 0 oder eine 1. Mehrere Bits werden zu "Bytes" zusammengefasst. Ein Byte besteht aus 8 Bits. Mit Bytes können wir Buchstaben, Zahlen und andere Informationen speichern und verarbeiten.
+## Bits y bytes: los componentes de los datos
+En el mundo de las computadoras, las unidades más pequeñas para los datos son los llamados "bits". Un bit puede ser 0 o 1. Varios bits se agrupan para formar "bytes". Un byte está compuesto por 8 bits. Con los bytes podemos almacenar y procesar letras, números y otra información.
 
-## ASCII und Unicode - Die Codierung der Zeichen
-Computer speichern Texte und Zeichen in Form von Zahlen. Früher wurde das ASCII (American Standard Code for Information Interchange) verwendet. Es war eine Zeichencodierung, die jedem Zeichen (Buchstaben, Zahlen, Sonderzeichen) eine eindeutige Zahl zuwies. So konnte ein Computer die Zeichen in binäre Zahlen umwandeln und speichern. Aber ASCII hatte ein Problem: Es konnte nur begrenzt Zeichen darstellen, zum Beispiel nur die Buchstaben des englischen Alphabets und einige Sonderzeichen.
+## ASCII y Unicode: la codificación de caracteres
+Las computadoras almacenan texto y caracteres en forma de números. Anteriormente se utilizaba ASCII (Código Estándar Estadounidense para el Intercambio de Información). Era una codificación de caracteres que asignaba un número único a cada carácter (letras, números, caracteres especiales). De esta manera, una computadora podía convertir y almacenar los caracteres en números binarios. Pero ASCII tenía un problema: solo podía representar un número limitado de caracteres, por ejemplo, solo las letras del alfabeto inglés y algunos caracteres especiales.
 
-Um dieses Problem zu lösen, wurde Unicode entwickelt! Unicode ist wie ein riesiges Lexikon für Zeichen aus vielen verschiedenen Sprachen und Schriften. Es kann Tausende von Zeichen darstellen, einschließlich der Buchstaben fast aller Sprachen der Welt, mathematischer Symbole, Emojis und vieles mehr!
+Para resolver este problema, ¡se desarrolló Unicode! Unicode es como un gran diccionario de caracteres de muchos idiomas y escrituras diferentes. Puede representar miles de caracteres, incluyendo letras de casi todos los idiomas del mundo, símbolos matemáticos, emojis y mucho más.
 
-### ASCII - American Standard Code for Information Interchange
-Lasst uns über Zeichencodierung sprechen, wie wir Zeichen und Buchstaben in Computern speichern. Früher, als Computer noch ziemlich jung waren, gab es ASCII, das stand für 'American Standard Code for Information Interchange'. Es war so eine Art Zauberbuch für Computer, das jedem Zeichen eine bestimmte Zahl zuwies.
+### ASCII: Código Estándar Estadounidense para el Intercambio de Información
+Hablemos sobre la codificación de caracteres, cómo almacenamos letras y caracteres en las computadoras. En el pasado, cuando las computadoras eran bastante jóvenes, existía ASCII, que significaba 'Código Estándar Estadounidense para el Intercambio de Información'. Era como un libro de magia para las computadoras, asignando un número específico a cada carácter.
 
-ASCII verwendete 7 Bits, um 128 Zeichen darzustellen. Und diese Zeichen umfassten Buchstaben (Groß- und Kleinbuchstaben), Zahlen, Satzzeichen und einige spezielle Zeichen. Also, wenn wir zum Beispiel den Buchstaben 'A' hatten, wurde er als 01000001 dargestellt. Das 'a' wurde zu 01100001, und die Zahl '5' wurde zu 00110101. Es war also ziemlich einfach.
+ASCII usaba 7 bits para representar 128 caracteres. Y estos caracteres incluían letras (mayúsculas y minúsculas), números, signos de puntuación y algunos caracteres especiales. Así que, por ejemplo, si teníamos la letra 'A', se representaba como 01000001. La 'a' era 01100001, y el número '5' era 00110101. Era bastante sencillo.
 
-Aber hier ist das Problem: ASCII konnte nur eine begrenzte Anzahl von Zeichen darstellen, und es war auf Englisch und einige Sonderzeichen beschränkt. Das bedeutete, dass es andere Sprachen und Symbole nicht darstellen konnte. Wenn du zum Beispiel Texte in anderen Sprachen oder mit besonderen Zeichen schreiben wolltest, dann konntest du das mit ASCII nicht so gut machen.
+Pero aquí está el problema: ASCII solo podía representar un número limitado de caracteres y estaba limitado al inglés y algunos caracteres especiales. Esto significaba que no era tan bueno para escribir textos en otros idiomas o con caracteres especiales.
 
-### Unicode - Die globale Zeichenkodierung
-Aber dann kam Unicode! Unicode ist wie ein riesiges, magisches Buch, das viele, viele verschiedene Zeichen aus vielen verschiedenen Sprachen und Schriften enthält. Und wisst ihr, wie viele Zeichen Unicode darstellen kann? Über eine Million! Es ist wirklich wie ein Zaubertrick, der es ermöglicht, Buchstaben, Zahlen, Symbole, Emojis und so ziemlich alles andere, was du dir vorstellen kannst, darzustellen!
+### Unicode: la codificación global de caracteres
+¡Pero luego llegó Unicode! Unicode es como un gran libro mágico que contiene muchos, muchos caracteres diferentes de muchos idiomas y escrituras diferentes. ¿Y sabes cuántos caracteres puede representar Unicode? ¡Más de un millón! Es realmente como un truco de magia que permite representar letras, números, símbolos, emojis y casi cualquier otra cosa que puedas imaginar.
 
-Mit Unicode können wir jetzt Texte in fast jeder Sprache schreiben und auch viele andere coole Symbole verwenden. Es gibt spezielle Zeichen für Mathematik, Währungen, Pfeile und vieles mehr. Es ist wirklich fantastisch!
+Con Unicode, ahora podemos escribir textos en casi cualquier idioma y usar muchos otros símbolos geniales. Hay caracteres especiales para matemáticas, monedas, flechas y mucho más. ¡Es realmente fantástico!
 
-## Umrechnung von Dezimal zu Binär
-Jetzt wollen wir wissen, wie man eine Dezimalzahl in eine binäre Zahl umwandelt. Das ist gar nicht so schwer! Wir nehmen die Dezimalzahl und teilen sie immer wieder durch 2. Dabei merken wir uns den Rest. Dann schreiben wir die Reste von unten nach oben.
+## Conversión de decimal a binario
+Ahora queremos saber cómo convertir un número decimal a un número binario. ¡No es tan difícil! Tomamos el número decimal y lo dividimos repetidamente entre 2. Mientras tanto, recordamos el residuo. Luego, escribimos los residuos de abajo hacia arriba.
 
-Lasst uns die Zahl 13 in binär umrechnen.
+Conviertamos el número 13 a binario.
 
-1. 13 ÷ 2 = 6. Rest = 1
-2. 6 ÷ 2 = 3, Rest = 0
-3. 3 ÷ 2 = 1, Rest = 1
-4. 1 ÷ 2 = 0, Rest = 1
+1. 13 ÷ 2 = 6. Residuo = 1
+2. 6 ÷ 2 = 3. Residuo = 0
+3. 3 ÷ 2 = 1. Residuo = 1
+4. 1 ÷ 2 = 0. Residuo = 1
 
-Jetzt schreiben wir die Reste von unten nach oben: 1101.
+Ahora escribimos los residuos de abajo hacia arriba: 1101.
 
-Das ist es! Die binäre Zahl für 13 ist 1101.
+¡Eso es todo! El número binario para 13 es 1101.
 
-## Umrechnung von Binär zu Dezimal
-Jetzt möchten wir wissen, wie wir eine binäre Zahl in eine Dezimalzahl umwandeln können. Auch das ist nicht schwer! Wir nehmen jeden Binärplatz von rechts nach links und multiplizieren ihn mit der entsprechenden Potenz von 2.
+## Conversión de binario a decimal
+Ahora queremos saber cómo convertir un número binario a un número decimal. ¡Tampoco es difícil! Tomamos cada lugar binario, de derecha a izquierda, y lo multiplicamos por la potencia correspondiente de 2.
 
-Lasst uns die binäre Zahl 1101 in Dezimal umrechnen.
+Conviertamos el número binario 1101 a decimal.
 
 1. 1 * 2⁰ = 1
 2. 0 * 2¹ = 0
 3. 1 * 2² = 4
 4. 1 * 2³ = 8
 
-Jetzt addieren wir diese Ergebnisse zusammen: 1 + 0 + 4 + 8 = 13.
+Ahora sumamos estos resultados: 1 + 0 + 4 + 8 = 13.
 
-Das ist es! Die Dezimalzahl für die binäre Zahl 1101 ist 13.
+¡Eso es todo! El número decimal para el número binario 1101 es 13.
 
-Das binäre Zahlensystem ermöglicht uns, auf einfache Weise Daten im Computer zu speichern und zu verarbeiten. Mit dem Wissen über die Umrechnung von binär zu dezimal können wir die faszinierende Welt der Nullen und Einsen besser verstehen!
+El sistema numérico binario nos permite almacenar y procesar datos de manera sencilla en una computadora. ¡Con el conocimiento de cómo convertir de binario a decimal, podemos entender mejor el fascinante mundo de los ceros y unos!
