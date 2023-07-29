@@ -12,7 +12,7 @@ Der Satz von Pythagoras ist eine der grundlegenden Ideen in der Geometrie und wu
 Ein rechtwinkliges Dreieck ist ein Dreieck, das einen 90-Grad-Winkel hat. Dieser rechte Winkel wird oft mit einem kleinen Quadrat markiert.
 
 ## Das Satz von Pythagoras
-Das Satz von Pythagoras lautet:<br>
+**Das Satz von Pythagoras lautet:**<br>
 a² + b² = c²<br>
 
 Hierbei stehen "a" und "b" für die Längen der beiden Katheten des rechtwinkligen Dreiecks, während "c" die Länge der Hypotenuse ist - die Seite, die dem rechten Winkel gegenüberliegt.
@@ -31,10 +31,10 @@ Angenommen, du hast ein rechtwinkliges Dreieck mit den Seitenlängen:<br>
 a = 3 cm<br>
 b = 4 cm
 
-Schritt 2:<br>
+**Schritt 1:**<br>
 3² + 4² = 9 + 16 = 25
 
-Schritt 3:<br>
+**Schritt 2:**<br>
 c = √25 = 5 cm
 
 Also ist die Länge der Hypotenuse "c" 5 cm.
@@ -52,7 +52,7 @@ Angenommen, du hast ein rechtwinkliges Dreieck mit den Seitenlängen:<br>
 c = 5 cm<br>
 a = 3 cm
 
-Um "b" zu berechnen:<br>
+**Um "b" zu berechnen:**<br>
 b² = 5² - 3² = 25 - 9 = 16<br>
 b = √16 = 4 cm
 
