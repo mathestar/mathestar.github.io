@@ -2,6 +2,8 @@
 layout: post
 title: Trigonometría - Seno, Coseno y Tangente
 subtitle: El fascinante mundo de la Trigonometría
+lang: es
+uuid: "trigonometrie"
 categories: [Geometrie]
 tags: [trigonometrie, sinus, kosinus, tangens, rechtwinklige-dreiecke, geometrische-berechnungen]
 ---

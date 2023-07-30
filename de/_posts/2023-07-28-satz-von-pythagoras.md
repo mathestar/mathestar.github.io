@@ -2,6 +2,8 @@
 layout: post
 title: Der Satz von Pythagoras einfach erklärt
 subtitle: Der Satz von Pythagoras ist eine der grundlegenden Ideen in der Geometrie
+lang: de
+uuid: "pythagoras"
 categories: [Geometrie]
 tags: [pythagoras-satz, rechtwinkelige-dreiecke, katheten, hypotenuse, geometrische-berechnungen]
 ---
