@@ -2,6 +2,8 @@
 layout: post
 title: Trigonometry - Sine, Cosine, and Tangent
 subtitle: The fascinating world of Trigonometry
+lang: en
+uuid: "trigonometrie"
 categories: [Geometrie]
 tags: [trigonometrie, sinus, kosinus, tangens, rechtwinklige-dreiecke, geometrische-berechnungen]
 ---

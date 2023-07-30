@@ -2,6 +2,8 @@
 layout: post
 title: El Teorema de Pitágoras explicado de forma sencilla
 subtitle: El Teorema de Pitágoras es una de las ideas fundamentales en Geometría
+lang: es
+uuid: "pythagoras"
 categories: [Geometrie]
 tags: [pythagoras-satz, rechtwinkelige-dreiecke, katheten, hypotenuse, geometrische-berechnungen]
 ---

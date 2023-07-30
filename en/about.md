@@ -1,6 +1,8 @@
 ---
 layout: about
 title: About Us
+lang: en
+uuid: "about"
 ---
 
 # About Us

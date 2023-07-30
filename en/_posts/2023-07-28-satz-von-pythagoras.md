@@ -2,6 +2,8 @@
 layout: post
 title: The Pythagorean Theorem Explained Simply
 subtitle: The Pythagorean Theorem is one of the fundamental ideas in Geometry
+lang: en
+uuid: "pythagoras"
 categories: [Geometrie]
 tags: [pythagoras-satz, rechtwinkelige-dreiecke, katheten, hypotenuse, geometrische-berechnungen]
 ---

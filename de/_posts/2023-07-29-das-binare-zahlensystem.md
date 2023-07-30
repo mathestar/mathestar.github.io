@@ -2,6 +2,8 @@
 layout: post
 title: Das binäre Zahlensystem einfach erklärt
 subtitle: Eine Reise in die Welt der Nullen und Einsen
+lang: de
+uuid: "binary"
 categories: [Informatik, Zahlensystem]
 tags: [binär, dezimal, zahlensystem, umrechnung, bits, bytes, ascii, unicode]
 ---

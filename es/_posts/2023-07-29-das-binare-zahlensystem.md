@@ -2,6 +2,8 @@
 layout: post
 title: El sistema numérico binario explicado de manera sencilla
 subtitle: Un viaje al mundo de los ceros y unos
+lang: es
+uuid: "binary"
 categories: [Informatik, Zahlensystem]
 tags: [binär, dezimal, zahlensystem, umrechnung, bits, bytes, ascii, unicode]
 ---
