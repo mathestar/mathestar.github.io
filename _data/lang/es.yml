@@ -1,0 +1,206 @@
+lng:
+  name: Spanish
+  code: es
+  country: ES
+  switch_title: Es
+  offer:
+    title: Idioma
+    msg_page: Ver esta página en español.
+    msg_site: Volver a la página principal
+
+date:
+  long: "%-d %b %Y"
+  day: "%d"
+  year: "%Y"
+  months: [Ene, Feb, Mar, Abr, May, Jun, Jul, Ago, Sep, Oct, Nov, Dic]
+
+not_found:
+  header: Página no encontrada
+  line1: La página que solicitaste no se pudo encontrar.
+  line2: Intenta el menú o la búsqueda del sitio, si está disponible.
+
+no_translation_tooltip: Sin traducción
+
+navigation:
+  contact_header: Contacto
+
+color_scheme_switch_tooltip: Esquema de color
+
+search:
+  placeholder: Buscar
+  noResultText: No se encontraron resultados.
+
+image_viewer:
+  load_error: La imagen no se pudo cargar.
+
+copyright:
+  additional_text: " Todos los derechos reservados."
+
+creative_commons:
+  some_rights_reserved: Algunos derechos reservados.
+  by: A menos que se indique lo contrario, el contenido de este sitio web está bajo una Licencia Internacional de Atribución 4.0 de Creative Commons.
+  by-nd: A menos que se indique lo contrario, el contenido de este sitio web está bajo una Licencia Internacional de Atribución-SinDerivadas 4.0 de Creative Commons.
+  by-sa: A menos que se indique lo contrario, el contenido de este sitio web está bajo una Licencia Internacional de Atribución-CompartirIgual 4.0 de Creative Commons.
+  by-nc: A menos que se indique lo contrario, el contenido de este sitio web está bajo una Licencia Internacional de Atribución-NoComercial 4.0 de Creative Commons.
+  by-nc-nd: A menos que se indique lo contrario, el contenido de este sitio web está bajo una Licencia Internacional de Atribución-NoComercial-SinDerivadas 4.0 de Creative Commons.
+  by-nc-sa: A menos que se indique lo contrario, el contenido de este sitio web está bajo una Licencia Internacional de Atribución-NoComercial-CompartirIgual 4.0 de Creative Commons.
+
+not-found:
+  title: "404"
+
+post:
+  read_time:
+    unit: " min"
+    text: " de lectura"
+    word_char: w
+    per_minute: 200
+  pager_buttons:
+    older_post: "← Entrada anterior"
+    newer_post: "Entrada más reciente →"
+    first_post: Primera
+    last_post: Última
+  comments:
+    noscript: Activa JavaScript para ver los comentarios.
+    disqus:
+      count_title: Comentarios
+      click_to_load: "Cargar comentarios"
+      consent:
+        title: Comentarios (Disqus.com)
+        text: >
+          La función de comentarios es proporcionada por un tercero. Al mostrar el contenido externo, aceptas los $terms y $privacy_policy de disqus.com.
+          <br>Si prefieres optar por no recibir publicidad dirigida, abre $settings_link y haz clic en el botón "optar por no participar" y luego cierra. Vuelve aquí y carga los comentarios.
+        terms_link_text: Términos de servicio
+        privacy_link_text: Política de privacidad
+        settings_link_text: este enlace
+        button:
+          load_once: Mostrar solo esta vez
+          load_and_do_not_ask_again: Mostrar siempre
+  table_of_contents:
+    heading: Contenido
+    tooltip:
+      move: Arrastra para mover
+      close: Cerrar
+  share:
+    heading: Compartir en
+    link_copied: ¡Enlace copiado!
+    tooltip:
+      twitter: Twitter
+      facebook: Facebook
+      telegram: Telegram
+      linkedin: LinkedIn
+      email: Correo electrónico
+      copy_link: Copiar enlace
+
+post-list:
+  title: Blog
+  button_name: Blog
+  upside_down_tabs:
+    tab:
+      all: Todos
+      categories: Categorías
+      tags: Etiquetas
+      years: Años
+      clear: Limpiar
+      close: Cerrar
+      tooltip:
+        clear: Limpiar
+        close: Cerrar
+    msg:
+      property_list:
+        tags: Etiqueta
+        category: Categoría
+        year: Año
+      resultFoundTitleFormat: "{property} : {thumb}"
+
+home:
+  title: Bienvenido
+  button_name: Inicio
+  new_posts_title: Nuevos artículos
+  new_posts_show_more_button: Ver más ...
+
+archives:
+  title: Archivo
+  button_name: Archivo
+  page_header: Archivo
+
+about:
+  title: Sobre nosotros
+  button_name: Sobre nosotros
+  email_title: correo electrónico
+
+links:
+  title: Enlaces
+  button_name: Enlaces
+  link_text: Sitio web
+  info_text: Información
+
+projects:
+  title: Proyectos
+  button_name: Proyectos
+  read_more_text: Leer más
+  read_less_text: Leer menos
+
+privacy-policy:
+  title: &privacy_policy_title Política de privacidad
+
+constants:
+  greetings: Hola
+  welcome: Bienvenido
+  sample: Muestra
+
+contact_form:
+  button_name: Formulario de contacto
+  formLoadingText: Cargando el formulario de contacto...
+
+cookie_consent:
+  privacy_policy_link_text: *privacy_policy_title
+  side_nav_setting_button_tooltip: &cookie_settings Configuración de cookies
+  panel_bar:
+    msg: >
+      Este sitio web utiliza cookies para optimizar la funcionalidad del sitio.
+      Se activará con tu aprobación.
+    privacy_msg: Consulta $privacy_link.
+    buttons:
+      accept: &accept_button Permitir todo
+      settings: Personalizar
+      deny: &deny_button Denegar
+  panel_settings:
+    title: *cookie_settings
+    msg: >
+      Este sitio web utiliza cookies para optimizar la funcionalidad del sitio.
+      Se activará con tu aprobación. Haz clic en cada elemento a continuación para ver la política de cookies.
+    privacy_msg: Consulta $privacy_link.
+    buttons:
+      accept: *accept_button
+      save: Permitir selección
+      deny: *deny_button
+    always_active: Siempre activas
+    consent_types:
+      necessary:
+        title: Cookies estrictamente necesarias
+        info: >
+          Estas cookies son esenciales para la función del sitio web y no se pueden desactivar.
+          Generalmente se establecen cuando se cambia la función del sitio, como el esquema de color, etc.
+          Estas cookies no almacenan información de identificación personal.
+          $gtag_info
+      analytics:
+        title: Cookies de rendimiento
+        info: $gtag_info
+      preferences:
+        title: Cookies de funcionalidad
+        info: $gtag_info
+      advertising:
+        title: Cookies de orientación y publicidad
+        info: $gtag_info
+    gtag_info:
+      ad_storage: >
+        Habilita el almacenamiento (como cookies) relacionado con la publicidad.
+      analytics_storage: >
+        Habilita el almacenamiento (como cookies) relacionado con análisis, como la duración de la visita.
+      functionality_storage: >
+        Habilita el almacenamiento que respalda la funcionalidad del sitio web o la aplicación, como la configuración de idioma.
+      personalization_storage: >
+        Habilita el almacenamiento relacionado con la personalización, como recomendaciones de video.
+      security_storage: >
+        Habilita el almacenamiento relacionado con la seguridad, como la funcionalidad de autenticación,
+        prevención de fraudes y otras protecciones para el usuario.
