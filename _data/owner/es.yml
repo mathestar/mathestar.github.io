@@ -1,0 +1,93 @@
+###########################################################
+# Información personal del propietario
+###########################################################
+# Este es el nombre de tu marca
+brand: "Mathestar"
+
+# texto debajo del nombre de la marca
+brand_sub_text: "$site_sample"
+
+# utilizado para el autor meta de SEO de la publicación (si no está definido en la publicación)
+name: "Mathestar"
+
+# textos superiores del encabezado de la página de inicio
+home:
+  # también puedes usar $site_brand, $site_greetings, $site_welcome en línea 1 y línea 2 para reemplazar textos.
+  top_header_line1: "$site_welcome"
+  # si está comentado, el encabezado superior será una sola línea
+  top_header_line2: "$site_brand"
+
+# subtítulo de la página Acerca de
+about:
+  sub_title: "$site_sample"
+
+# si no deseas agregar el año de derechos de autor, comenta o déjalo en blanco.
+# el año durante el cual se afirmó por primera vez el derecho de autor reclamado para la obra.
+copyright_start_year: "2023"
+
+# asegúrate de que creative_commons.enable sea verdadero en el archivo _data/conf/main.yml
+creative_commons:
+  # elige tu licencia de https://creativecommons.org/choose/?lang=en
+  # luego verifica la dirección del enlace debajo de la licencia seleccionada y asegúrate de que coincida con la lista a continuación
+
+  # selecciona una de las siguientes opciones
+  # 1. by        Attribution 4.0 International
+  # 2. by-nd     Attribution-NoDerivatives 4.0 International
+  # 3. by-sa     Attribution-ShareAlike 4.0 International
+  # 4. by-nc     Attribution-NonCommercial 4.0 International
+  # 5. by-nc-nd  Attribution-NonCommercial-NoDerivatives 4.0 International
+  # 6. by-nc-sa  Attribution-NonCommercial-ShareAlike 4.0 International
+  license_type: "by-sa"
+
+# descripción común de SEO, esto es necesario para cada idioma
+# si meta_description no está definido en el frente, se crea a partir del contenido (publicación / página),
+# si no tiene contenido, esto se usará para la descripción de la página. También se utiliza en manifest.json
+meta_common_description: "Aquí enseñaré matemáticas como si estuviera enseñándolas a un niño de cinco años."
+
+# opciones de contacto (barra lateral inferior y página Acerca de)
+# el orden de los elementos se mostrará como aquí.
+# comenta para eliminar cualquier elemento de contacto
+contacts:
+  #- github: ""
+  #- email: ""
+  #- linkedin: ""
+  #- twitter: ""
+  #- mastodon: ""
+  #- instagram: ""
+  #- youtube: ""
+  #- facebook: ""
+# para agregar más, consulta el archivo _data/const/contact.yml
+#  - tu_nuevo_contacto: ""
+
+# asegúrate de que se habilite uno de los motores de comentarios en el archivo _data/conf/posts.yml
+comments:
+  # Crea una cuenta en Disqus y completa los elementos a continuación.
+  disqus:
+    shortname: ""
+  # Para usar Giscus, ve a https://giscus.app y busca la "Configuración".
+  # - Ingresa el nombre de tu repositorio, y creará la siguiente configuración para ti bajo "Habilitar giscus".
+  # - Obtén los elementos correspondientes y rellena los elementos a continuación.
+  # Para otras configuraciones, consulta el archivo _data/conf/posts.yml
+  giscus:
+    repo: ""
+    repo-id: ""
+    category: ""
+    category-id: ""
+
+# si no se proporciona un id, esta característica se desactivará.
+# asegúrate de que tu entorno no coincida con google.analytics.ignore en _data/conf/main.yml
+google_analytics_id: ""
+
+# hay diferentes formas de verificar una página web. Una es agregar esto como metadato en el html.
+# asegúrate de establecer meta.google_site_verify: true en _data/conf/main.yml
+# asegúrate de que tu entorno no coincida con google.site_verification.ignore en _data/conf/main.yml
+google_site_verification: ""
+
+# asegúrate de establecer contact_form.enable: true en _data/conf/main.yml
+# - Crea un formulario en Google Forms. Puedes usar la plantilla llamada "Información de contacto".
+# - Personaliza los colores del formulario y la validación de respuesta según tus necesidades.
+# - Para desactivar el inicio de sesión forzado de Google, ve a "Configuración > Respuesta" y desactiva la opción "Limitar a 1 respuesta".
+# - Haz clic en el botón "Enviar" en la parte superior derecha.
+# - Haz clic en el icono de enlace en la lista "Enviar por" y copia el enlace.
+# - Luego pega el enlace entre comillas dobles.
+google_forms_contact_form_url: ""

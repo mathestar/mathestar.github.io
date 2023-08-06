@@ -1,0 +1,236 @@
+# Mr. Green Jekyll Theme (https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme)
+# Urheberrecht (c) 2022 Mr. Green's Workshop https://www.MrGreensWorkshop.com
+# Lizenziert unter MIT
+
+lng:
+  name: Deutsch
+  # basierend auf ISO_639-1 https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
+  code: de
+  # speziell für open-graph meta og:locale benötigt. falls open_graph oder html_lng_with_country_code nicht in _data/conf/main.yml aktiviert sind, ist es nicht notwendig.
+  # Für html-Tags kannst du es mit html_lng_with_country_code in _data/conf/main.yml aktivieren oder deaktivieren.
+  # basierend auf ISO_3166-1 https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
+  country: DE
+  switch_title: De
+  offer:
+    title: Sprache
+    msg_page: Diese Seite auf Deutsch anzeigen.
+    # falls keine Seitenübersetzung verfügbar ist, nutze diese Nachricht.
+    msg_site: Zur Startseite
+
+date:
+  # wenn %b im langen Format verwendet wird, wird es durch den entsprechenden Eintrag in der 'months'-Liste unten ersetzt.
+  long: "%-d. %b %Y"
+  day: "%d"
+  year: "%Y"
+  # die 'months'-Liste wird auch in der Archiv-Seite verwendet.
+  months: [Jan, Feb, Mär, Apr, Mai, Jun, Jul, Aug, Sep, Okt, Nov, Dez]
+
+not_found:
+  header: Seite nicht gefunden
+  line1: Die von Ihnen angeforderte Seite wurde nicht gefunden.
+  line2: Versuchen Sie es mit dem Menü oder der Seitensuche, falls vorhanden.
+
+no_translation_tooltip: Keine Übersetzung
+
+navigation:
+  contact_header: Kontakt
+
+color_scheme_switch_tooltip: Farbschema
+
+search:
+  placeholder: Suche
+  noResultText: Keine Ergebnisse gefunden.
+
+image_viewer:
+  load_error: Das Bild konnte nicht geladen werden.
+
+copyright:
+  additional_text: " Alle Rechte vorbehalten."
+
+creative_commons:
+  some_rights_reserved: Einige Rechte vorbehalten.
+  # überprüfe _data/owner/[language].yml für den Lizenztyp.
+  by: Sofern nicht anders angegeben, ist der Inhalt dieser Website lizenziert unter einer Creative Commons Namensnennung 4.0 International Lizenz.
+  by-nd: Sofern nicht anders angegeben, ist der Inhalt dieser Website lizenziert unter einer Creative Commons Namensnennung-Keine Bearbeitungen 4.0 International Lizenz.
+  by-sa: Sofern nicht anders angegeben, ist der Inhalt dieser Website lizenziert unter einer Creative Commons Namensnennung-Weitergabe unter gleichen Bedingungen 4.0 International Lizenz.
+  by-nc: Sofern nicht anders angegeben, ist der Inhalt dieser Website lizenziert unter einer Creative Commons Namensnennung-Nicht kommerziell 4.0 International Lizenz.
+  by-nc-nd: Sofern nicht anders angegeben, ist der Inhalt dieser Website lizenziert unter einer Creative Commons Namensnennung-Nicht kommerziell-Keine Bearbeitungen 4.0 International Lizenz.
+  by-nc-sa: Sofern nicht anders angegeben, ist der Inhalt dieser Website lizenziert unter einer Creative Commons Namensnennung-Nicht kommerziell-Weitergabe unter gleichen Bedingungen 4.0 International Lizenz.
+
+# für 404-Layout
+not-found:
+  title: "404"
+
+# für Post-Layout
+post:
+  read_time:
+    unit: " Min."
+    text: " Lesedauer"
+    # c für Zeichen w für Wörter
+    word_char: w
+    # Zeichen oder Wörter pro Minute
+    per_minute: 200
+  pager_buttons:
+    older_post: "← Älterer Beitrag"
+    newer_post: "Neuerer Beitrag →"
+    first_post: Erster
+    last_post: Letzter
+  comments:
+    noscript: Bitte aktivieren Sie JavaScript, um die Kommentare anzuzeigen.
+    disqus:
+      count_title: Kommentare
+      click_to_load: "Kommentare laden"
+      consent:
+        title: Kommentare (Disqus.com)
+        text: >
+          Die Kommentarfunktion wird von einem Drittanbieter gehostet. Mit der Anzeige externer Inhalte akzeptieren Sie die $terms und $privacy_policy von disqus.com.
+          <br>Wenn Sie keine zielgerichtete Werbung wünschen, öffnen Sie $settings_link und klicken Sie auf die Schaltfläche "opt-out" und schließen Sie sie. Kehren Sie zurück und laden Sie die Kommentare.
+        terms_link_text: Nutzungsbedingungen
+        privacy_link_text: Datenschutzrichtlinie
+        settings_link_text: diesen Link
+        button:
+          load_once: Nur dieses Mal anzeigen
+          load_and_do_not_ask_again: Immer anzeigen
+  table_of_contents:
+    heading: Inhaltsverzeichnis
+    tooltip:
+      move: Ziehen zum Verschieben
+      close: Schließen
+  share:
+    heading: Teilen auf
+    link_copied: Link kopiert!
+    tooltip:
+      # Schlüssel müssen mit _data/share.yml übereinstimmen
+      twitter: Twitter
+      facebook: Facebook
+      telegram: Telegram
+      linkedin: LinkedIn
+      email: E-Mail
+      copy_link: Link kopieren
+
+# für Post-List-Layout
+post-list:
+  title: Blog
+  button_name: Blog
+  upside_down_tabs:
+    tab:
+      all: Alle
+      categories: Kategorien
+      tags: Tags
+      years: Jahre
+      clear: Leeren
+      close: Schließen
+      tooltip:
+        clear: Leeren
+        close: Schließen
+    msg:
+      property_list:
+        # Schlüssel müssen mit /query/post-query.json übereinstimmen
+        tags: Tag
+        category: Kategorie
+        year: Jahr
+      # Sie können diese Platzhalter verwenden: {property} {value} {thumb}
+      resultFoundTitleFormat: "{property} : {thumb}"
+
+# für Home-Layout
+home:
+  title: Willkommen
+  button_name: Startseite
+  new_posts_title: Neue Artikel
+  new_posts_show_more_button: Mehr anzeigen ...
+
+# für Archiv-Layout
+archives:
+  title: Archiv
+  button_name: Archiv
+  page_header: Archiv
+
+# für About-Layout
+about:
+  title: Über uns
+  button_name: Über uns
+  email_title: E-Mail
+
+# für Links-Layout
+links:
+  title: Links
+  button_name: Links
+  link_text: Website
+  info_text: Info
+
+# für Projekte-Layout
+projects:
+  title: Projekte
+  button_name: Projekte
+  read_more_text: Weiterlesen
+  read_less_text: Weniger lesen
+
+# für Datenschutz-Layout
+privacy-policy:
+  title: &privacy_policy_title Datenschutzrichtlinie
+
+# Konstanten, die ersetzt werden müssen
+constants:
+  greetings: Hallo
+  welcome: Willkommen
+  sample: Beispiel
+
+# für Kontaktformular
+contact_form:
+  button_name: Kontaktformular
+  formLoadingText: Lade das Kontaktformular...
+
+# für Cookie-Zustimmung
+cookie_consent:
+  privacy_policy_link_text: *privacy_policy_title
+  side_nav_setting_button_tooltip: &cookie_settings Cookie-Einstellungen
+  panel_bar:
+    msg: >
+      Diese Website verwendet Cookies, um die Funktionalität der Website zu optimieren.
+      Es wird mit Ihrer Zustimmung aktiviert.
+    privacy_msg: Überprüfen Sie die $privacy_link.
+    buttons:
+      accept: &accept_button Alles zulassen
+      settings: Anpassen
+      deny: &deny_button Ablehnen
+  panel_settings:
+    title: *cookie_settings
+    msg: >
+      Diese Website verwendet Cookies, um die Funktionalität der Website zu optimieren.
+      Es wird mit Ihrer Zustimmung aktiviert. Klicken Sie bitte auf jedes Element unten für die Cookie-Richtlinie.
+    privacy_msg: Überprüfen Sie die $privacy_link.
+    buttons:
+      accept: *accept_button
+      save: Auswahl zulassen
+      deny: *deny_button
+    always_active: Immer aktiviert
+    consent_types:
+      necessary:
+        title: Erforderliche Cookies
+        info: >
+          Diese Cookies sind für die Funktion der Website unerlässlich und können nicht deaktiviert werden.
+          Sie werden in der Regel gesetzt, wenn Funktionen der Website wie Farbschema usw. geändert werden.
+          Diese Cookies speichern keine personenbezogenen Daten.
+          $gtag_info
+      analytics:
+        title: Leistungscookies
+        info: $gtag_info
+      preferences:
+        title: Funktionalitätscookies
+        info: $gtag_info
+      advertising:
+        title: Ziel- und Werbe-Cookies
+        info: $gtag_info
+    gtag_info:
+      # von https://support.google.com/tagmanager/answer/10718549#consent-types
+      ad_storage: >
+        Ermöglicht die Speicherung (z. B. Cookies) im Zusammenhang mit Werbung.
+      analytics_storage: >
+        Ermöglicht die Speicherung (z. B. Cookies) im Zusammenhang mit Analysen, z. B. Besuchsdauer.
+      functionality_storage: >
+        Ermöglicht die Speicherung, die die Funktionalität der Website oder App unterstützt, z. B. Spracheinstellungen.
+      personalization_storage: >
+        Ermöglicht die Speicherung im Zusammenhang mit Personalisierung, z. B. Videoempfehlungen.
+      security_storage: >
+        Ermöglicht die Speicherung im Zusammenhang mit Sicherheit, z. B. Authentifizierungsfunktionen,
+        Betrugsprävention und anderer Benutzerschutz.

@@ -1,0 +1,93 @@
+###########################################################
+# Persönliche Informationen des Eigentümers
+###########################################################
+# Dies ist der Name Ihrer Marke
+brand: "Mathestar"
+
+# Text unter dem Markennamen
+brand_sub_text: "$site_sample"
+
+# wird für den SEO-Meta-Autor (falls nicht in der Post definiert) verwendet
+name: "Mathestar"
+
+# Texte für den oberen Kopfbereich der Startseite
+home:
+  # Sie können auch $site_brand, $site_greetings, $site_welcome in Zeile 1 und Zeile 2 verwenden, um Texte zu ersetzen.
+  top_header_line1: "$site_welcome"
+  # Wenn auskommentiert, wird der obere Header eine einzelne Zeile sein
+  top_header_line2: "$site_brand"
+
+# Untertitel der Seite "Über uns"
+about:
+  sub_title: "$site_sample"
+
+# Wenn kein Copyright-Jahr hinzugefügt werden soll, kommentieren Sie es aus oder lassen Sie es leer.
+# das Jahr, in dem das beanspruchte Urheberrecht für das Werk erstmals geltend gemacht wurde.
+copyright_start_year: "2023"
+
+# Stellen Sie sicher, dass creative_commons.enable in der Datei _data/conf/main.yml auf true gesetzt ist
+creative_commons:
+  # wählen Sie Ihre Lizenz aus https://creativecommons.org/choose/?lang=en
+  # überprüfen Sie dann den Link unter der ausgewählten Lizenz und stellen Sie sicher, dass er mit der folgenden Liste übereinstimmt
+
+  # wählen Sie eine der folgenden Optionen aus
+  # 1. by        Namensnennung 4.0 International
+  # 2. by-nd     Namensnennung-KeineBearbeitung 4.0 International
+  # 3. by-sa     Namensnennung-Weitergabe unter gleichen Bedingungen 4.0 International
+  # 4. by-nc     Namensnennung-NichtKommerziell 4.0 International
+  # 5. by-nc-nd  Namensnennung-NichtKommerziell-KeineBearbeitung 4.0 International
+  # 6. by-nc-sa  Namensnennung-NichtKommerziell-Weitergabe unter gleichen Bedingungen 4.0 International
+  license_type: "by-sa"
+
+# SEO-Meta: Dies ist für jede Sprache erforderlich
+# Wenn meta_description im Front Matter nicht definiert ist, wird sie aus dem Inhalt (Post / Seite) erstellt,
+# falls kein Inhalt vorhanden ist, wird dies für die Seitenbeschreibung verwendet. Es wird auch in manifest.json verwendet
+meta_common_description: "Hier werde ich Mathematik unterrichten, als würde ich sie einem Fünfjährigen beibringen."
+
+# Kontaktmöglichkeiten (Seitenleiste unten und Seite "Über uns")
+# Die Reihenfolge der Elemente wird wie hier angezeigt.
+# Kommentiere, um ein Kontaktelement zu entfernen
+contacts:
+  #- github: ""
+  #- email: ""
+  #- linkedin: ""
+  #- twitter: ""
+  #- mastodon: ""
+  #- instagram: ""
+  #- youtube: ""
+  #- facebook: ""
+# Um mehr hinzuzufügen, überprüfe die Datei _data/const/contact.yml
+#  - dein_neuer_kontakt: ""
+
+# Stellen Sie sicher, dass ein Kommentarmotor in _data/conf/posts.yml aktiviert ist
+comments:
+  # Erstellen Sie ein Disqus-Konto und füllen Sie die folgenden Elemente aus.
+  disqus:
+    shortname: ""
+  # Um Giscus zu verwenden, gehe zu https://giscus.app und suche nach der "Configuration".
+  # - Gib den Namen deines Repositories ein, und es erstellt die folgenden Einstellungen für dich unter "Enable giscus".
+  # - Erhalte die entsprechenden Elemente und fülle die folgenden Elemente aus.
+  # Für andere Einstellungen, überprüfe die Datei _data/conf/posts.yml
+  giscus:
+    repo: ""
+    repo-id: ""
+    category: ""
+    category-id: ""
+
+# Wenn keine ID angegeben wird, wird diese Funktion deaktiviert.
+# Stellen Sie sicher, dass Ihre Umgebung nicht mit google.analytics.ignore in _data/conf/main.yml übereinstimmt
+google_analytics_id: ""
+
+# Es gibt verschiedene Möglichkeiten, eine Webseite zu verifizieren. Eine besteht darin, dies als Metadaten im HTML hinzuzufügen.
+# Stellen Sie sicher, dass meta.google_site_verify: true in _data/conf/main.yml festgelegt ist
+# Stellen Sie sicher, dass Ihre Umgebung nicht mit google.site_verification.ignore in _data/conf/main.yml übereinstimmt
+google_site_verification: ""
+
+# Stellen Sie sicher, dass contact_form.enable: true in _data/conf/main.yml festgelegt ist
+# - Erstellen Sie ein Formular in Google Forms. Sie können die Vorlage "Kontaktinformationen" verwenden.
+# - Passen Sie die Formularfarben und die Antwortvalidierung nach Ihren Bedürfnissen an.
+# - Um die erzwungene Google-Anmeldung zu deaktivieren, gehen Sie zu "Einstellungen > Antworten" und deaktivieren Sie die Option "Limitierung auf 1 Antwort".
+# - Klicken Sie auf die Schaltfläche "Senden" oben rechts.
+# - Klicken Sie auf das Link-Symbol in der Liste "Senden über" und kopieren Sie den Link.
+# - Fügen Sie dann den Link zwischen doppelte Anführungszeichen ein.
+google_forms_contact_form_url: ""

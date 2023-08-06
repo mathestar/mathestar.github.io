@@ -1,0 +1,229 @@
+# Puedes mover este contenido al front matter de [language]/tabs/projects.md
+###########################################################
+#                Datos de la Página de Proyectos
+###########################################################
+page_data:
+  main:
+    header: "Proyectos"
+    info: "Aquí se encuentra la descripción de la página de proyectos."
+    text_color: "white"
+    # si no deseas usar una imagen de fondo, coméntala. back_color será activado.
+    img: ":projects-heading.jpg"
+    back_color: "lightblue"
+
+  category:
+    - title: "Ejemplo"
+      type: id_example
+      color: "gris"
+    - title: "Fotos"
+      type: id_picture
+      color: "#62b462"
+    - title: "Citas célebres"
+      type: id_quote
+      color: "#2FD0ED"
+
+  list:
+    # ejemplo
+    - type: id_example
+      project_name: "Proyecto de Ejemplo"
+      project_excerpt: "Ejemplo"
+      img: ":project1_thumb.jpg"
+      img_title: "Título de la imagen 1"
+      date: "2021-03-13"
+      post: |
+        # Ejemplos
+
+        Esta es una página de ejemplo para mostrar estilos relacionados con Markdown en el tema de Mr. Green Jekyll.
+
+        ### Encabezados (centrados)
+        {:data-align="center"}
+
+        # Encabezado 1
+
+        ## Encabezado 2
+
+        ### Encabezado 3
+
+        #### Encabezado 4
+
+        ##### Encabezado 5
+
+        ###### Encabezado 6
+
+        ***
+
+        ### Párrafos
+
+        #### Párrafo
+
+        **William Shakespeare**, Permíteme que no admita impedimentos en el matrimonio de las mentes verdaderas.
+        El amor no es amor si cambia cuando encuentra el cambio,
+        o se doblega con el removedor para eliminarlo.
+        Oh no, es una marca siempre fija
+        que mira las tempestades y nunca se sacude;
+        Es la estrella para cada barca errante,
+        cuyo valor es desconocido, aunque se mida su altura.
+        El amor no es un tonto del tiempo, aunque labios y mejillas sonrosados
+        vienen dentro de la trayectoria de su segadora doblada;
+        El amor no cambia con sus horas y semanas breves,
+        sino que lo soporta incluso hasta el borde de la perdición.
+        Si esto es un error y se demuestra en mí,
+        nunca escribí, ni ningún hombre amó.
+
+        #### Textos
+
+        Texto citado `Hola mundo`
+
+        Texto en negrita **Hola mundo**
+
+        Texto en cursiva _Hola mundo_
+
+        Texto kbd <kbd>Hola mundo</kbd>
+
+        #### Cita en bloque
+
+        > **William Shakespeare**, Permíteme que no admita impedimentos en el matrimonio de las mentes verdaderas.
+        El amor no es amor si cambia cuando encuentra el cambio,
+        o se doblega con el removedor para eliminarlo.
+        Oh no, es una marca siempre fija
+        que mira las tempestades y nunca se sacude;
+        Es la estrella para cada barca errante,
+        cuyo valor es desconocido, aunque se mida su altura.
+        El amor no es un tonto del tiempo, aunque labios y mejillas sonrosados
+        vienen dentro de la trayectoria de su segadora doblada;
+        El amor no cambia con sus horas y semanas breves,
+        sino que lo soporta incluso hasta el borde de la perdición.
+        Si esto es un error y se demuestra en mí,
+        nunca escribí, ni ningún hombre amó.
+
+        ### Enlace
+
+        Esto es [Mr. Green Jekyll Theme](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme), un tema simple construido para [Jekyll](https://jekyllrb.com/).
+
+        ### Imagen
+
+        ![qué lugar tan encantador](:projects-heading.jpg)
+
+        ### Imagen (centrada)
+
+        ![qué lugar tan encantador](:project1_thumb.jpg){:data-align="center"}
+
+        ### Listas
+
+        - Manzana
+        - Plátano
+        - Naranja
+
+        1. Frutas
+            1. Manzanas
+                - Granny Smith
+                - Mutsu
+            1. Plátanos
+                - Cavendish
+                - Rojo
+        1. Verduras
+
+        ***
+
+        ### Tablas
+
+        #### Tabla pequeña (centrada)
+
+        | Frutas(sin alinear) | Alineación (centrada) | num (alinear a la derecha) |
+        | -------------------- | :------------------: | ------------------------: |
+        | Manzana              |       centrado       |                     9999 |
+        | Plátano              |  texto largo centrado |                      999 |
+        | Naranja              |       centrado       |                       99 |
+        | Limón                |       centrado       |                        9 |
+        {:data-align="center"}
+
+        #### Tabla amplia (centrada)
+
+        desplazamiento habilitado cuando la página es estrecha
+
+        | Frutas | num (alinear a la izquierda) | num (alinear a la derecha) | num  | num  | num  |
+        | ------ | :------------------------- | ------------------------: | ---- | ---- | ---- |
+        | Manzana | 1111                     |                       1111 | 2222 | 3333 | 4444 |
+        | Plátano | 111                      |                        111 | 222  | 333  | 444  |
+        | Naranja | 11                       |                         11 | 22   | 33   | 44   |
+        | Limón   | 1                        |                          1 | 2    | 3    | 4    |
+        {:data-align="center"}
+
+        #### Tabla más amplia
+
+        desplazamiento habilitado cuando la página es estrecha
+
+        | Frutas | num (alinear a la izquierda) | num (alinear a la derecha) | num  | num  | num  | num  | num  | num  |
+        | ------ | :------------------------- | ------------------------: | ---- | ---- | ---- | ---- | ---- | ---- |
+        | Manzana | 1111                     |                       1111 | 2222 | 3333 | 4444 | 5555 | 6666 | 7777 |
+        | Plátano | 111                      |                        111 | 222  | 333  | 444  | 555  | 666  | 777  |
+        | Naranja | 11                       |                         11 | 22   | 33   | 44   | 55   | 66   | 77   |
+        | Limón   | 1                        |                          1 | 2    | 3    | 4    | 5    | 6    | 7    |
+
+        ### Código
+
+        #### Cita
+
+        ```python
+        for i in range(5, 10):
+          print(i)
+        ```
+
+    # imagen
+    - type: id_picture
+      project_name: "Proyecto de Ejemplo"
+      project_excerpt: "Fotos"
+      img: ":project2_thumb.jpg"
+      img_title: "Título de la imagen 2"
+      date: "2021-04-23"
+      post: |
+        # Título
+        Este es el contenido del proyecto.
+
+        ![Imagen](:project2_thumb.jpg)
+
+    # cita
+    - type: id_quote
+      project_name: "Proyecto de Ejemplo"
+      project_excerpt: "William Shakespeare"
+      #img: ":project1_thumb.jpg"
+      #img_title: "Título de la imagen 3"
+      date: "2021-05-27"
+      post: |
+        Permíteme que no admita impedimentos en el matrimonio de las mentes verdaderas.
+        El amor no es amor si cambia cuando encuentra el cambio,
+        o se doblega con el removedor para eliminarlo.
+        Oh no, es una marca siempre fija
+        que mira las tempestades y nunca se sacude;
+        Es la estrella para cada barca errante,
+        cuyo valor es desconocido, aunque se mida su altura.
+        El amor no es un tonto del tiempo, aunque labios y mejillas sonrosados
+        vienen dentro de la trayectoria de su segadora doblada;
+        El amor no cambia con sus horas y semanas breves,
+        sino que lo soporta incluso hasta el borde de la perdición.
+        Si esto es un error y se demuestra en mí,
+        nunca escribí, ni ningún hombre amó.
+    - type: id_quote
+      project_name: "Proyecto de Ejemplo"
+      project_excerpt: "Albert Einstein"
+      img: ":project2_thumb.jpg"
+      img_title: "Título de la imagen 4"
+      date: "2021-06-08"
+      post: |
+        Dos cosas son infinitas: el universo y la estupidez humana; y no estoy seguro acerca del universo.
+    - type: id_quote
+      project_name: "Proyecto de Ejemplo"
+      project_excerpt: "Mae West"
+      img: ":project1_thumb.jpg"
+      img_title: "Título de la imagen 5"
+      date: "2021-08-20"
+      post: |
+        Solo se vive una vez, pero si lo haces bien, una vez es suficiente.
+    - type: id_quote
+      project_name: "Proyecto de Ejemplo"
+      project_excerpt: "Mahatma Gandhi"
+      img: ":project2_thumb.jpg"
+      img_title: "Título de la imagen 6"
+      date: "2021-12-20"
+      post: |
+        Sé el cambio que deseas ver en el mundo.
