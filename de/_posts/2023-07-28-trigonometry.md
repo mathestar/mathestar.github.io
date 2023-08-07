@@ -18,7 +18,7 @@ In einem rechtwinkligen Dreieck gibt es einen Winkel von 90 Grad, den wir als re
 ### Sinus (sin)
 Der Sinus eines Winkels in einem rechtwinkligen Dreieck ist das Verhältnis der Länge der Gegenkathete (co) zur Länge der Hypotenuse (H).
 
-$$ \text{Sinus} (\sin) = \frac{\text{Gegenkathete} (\text{co})}{\text{Hypotenuse} (H)} $$
+$$\text{Sinus}(\sin)=\frac{\text{Gegenkathete} (\text{co})}{\text{Hypotenuse}(H)}$$
 
 Um den Sinus eines Winkels zu berechnen, teilen wir also einfach die Länge der Gegenkathete (co) durch die Länge der Hypotenuse (H). Der Sinus gibt uns an, wie groß der Winkel im Verhältnis zur Hypotenuse (H) ist. Ein großer Sinus-Wert bedeutet einen steilen Winkel, während ein kleiner Sinus-Wert auf einen flachen Winkel hinweist.
 
