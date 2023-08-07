@@ -37,7 +37,7 @@ img: ":about.png"
 ---
 
 ## ¡Bienvenidos a Mathestar!
-Somos un apasionado equipo de entusiastas de las matemáticas que se ha propuesto explicar las matemáticas de una manera emocionante y comprensible para estudiantes de 10º a 12º grado. Nuestro objetivo es hacer que las matemáticas sean accesibles para todos y convertir el aprendizaje en una experiencia entretenida.
+Somos un apasionado equipo de entusiastas de las matemáticas que se ha propuesto explicar las matemáticas de una manera emocionante y comprensible para estudiantes de 1º a 3º curso. Nuestro objetivo es hacer que las matemáticas sean accesibles para todos y convertir el aprendizaje en una experiencia entretenida.
 
 ## Nuestra misión:
 - Fomentar la comprensión y la emoción por las matemáticas.
