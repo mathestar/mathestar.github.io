@@ -48,7 +48,7 @@ meta_common_description: "Here we will teach math as if we where to teach them t
 # the order of the items will be shown as here.
 # comment to remove any contact item
 contacts:
-  - github: "https://github.com/mathestar/"
+  - github: "mathestar"
   #- email: ""
   #- linkedin: ""
   #- twitter: ""
