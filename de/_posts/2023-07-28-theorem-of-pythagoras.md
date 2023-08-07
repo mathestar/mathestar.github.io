@@ -23,11 +23,11 @@ Der Satz von Pythagoras sagt uns, dass die Länge der langen Seite (Hypotenuse) 
 Stell dir vor, du hast ein großes Quadrat, das so groß ist wie die lange Seite des Dreiecks. Dann hast du zwei kleinere Quadrate, die so groß sind wie die kurzen Seiten des Dreiecks. Wenn du die Fläche der beiden kleinen Quadrate addierst, ist sie genauso groß wie die Fläche des großen Quadrats. Das ist der Satz von Pythagoras in Aktion!
 
 **Das Satz von Pythagoras lautet:**<br>
-a² + b² = c²<br>
+<img src="https://latex.codecogs.com/svg.image?\large&space;a^2&plus;b^2=x^2"><br>
 
 Hierbei stehen "a" und "b" für die Längen der beiden Katheten des rechtwinkligen Dreiecks, während "c" die Länge der Hypotenuse ist - die Seite, die dem rechten Winkel gegenüberliegt.
 
-![Desktop View](/assets/img/posts/pythagoras.png)
+![Desktop View](/assets/img/posts/pythagoras.png){: width="256" height="256" .w-20 .left}
 
 ## Anwendung des Satzes von Pythagoras
 Um den Satz von Pythagoras anzuwenden, folge diesen einfachen Schritten:
@@ -42,18 +42,18 @@ a = 3 cm<br>
 b = 4 cm
 
 **Schritt 1:**<br>
-3² + 4² = 9 + 16 = 25
+<img src="https://latex.codecogs.com/svg.image?\large&space;3^2&plus;4^2=9&plus;16=25">
 
 **Schritt 2:**<br>
-c = √25 = 5 cm
+<img src="https://latex.codecogs.com/svg.image?\large&space;c=\sqrt{25}=5cm">
 
 Also ist die Länge der Hypotenuse "c" 5 cm.
 
 ## Berechnung von "a" oder "b"
 Manchmal kennen wir die Länge der Hypotenuse "c" und eine der Katheten, z. B. "a". Um die Länge der anderen Kathete "b" zu berechnen, kannst du das Satz von Pythagoras umstellen:
 
-a² = c² - b²<br>
-b² = c² - a²
+<img src="https://latex.codecogs.com/svg.image?\large&space;a^2=c^2-b^2"><br>
+<img src="https://latex.codecogs.com/svg.image?\large&space;c^2=c^2-a^2">
 
 Dann ziehe die Quadratwurzel von "b²", um die Länge von "b" zu erhalten.
 
@@ -63,8 +63,8 @@ c = 5 cm<br>
 a = 3 cm
 
 **Um "b" zu berechnen:**<br>
-b² = 5² - 3² = 25 - 9 = 16<br>
-b = √16 = 4 cm
+<img src="https://latex.codecogs.com/svg.image?\large&space;b^2=5^2-3^2=25-9=16"><br>
+<img src="https://latex.codecogs.com/svg.image?\large&space;b=\sqrt{16}=4cm">
 
 Also ist die Länge der Kathete "b" 4 cm.
 
