@@ -28,7 +28,7 @@ a² + b² = c²<br>
 Aquí, "a" y "b" son las longitudes de los dos catetos del triángulo rectángulo, mientras que "c" es la longitud de la hipotenusa, el lado que está opuesto al ángulo recto.
 
 
-![Desktop View](/assets/images/math/pythagoras.png)
+![Desktop View](/assets/img/posts/pythagoras.png)
 
 ## Aplicación del Teorema de Pitágoras
 Para aplicar el Teorema de Pitágoras, sigue estos sencillos pasos:

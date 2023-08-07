@@ -12,7 +12,7 @@ date: 2023-07-28 11:32:53 -0400
 ## Triángulos rectángulos
 En un triángulo rectángulo hay un ángulo de 90 grados, al que llamamos ángulo recto. El lado opuesto a este ángulo se llama cateto opuesto (co), el lado adyacente se llama cateto adyacente (ca) y el lado más largo opuesto al ángulo recto se llama hipotenusa (H).
 
-![Desktop View](/assets/images/math/trig.png)
+![Desktop View](/assets/img/posts/es/trig.png)
 
 ### Seno (sin)
 El seno de un ángulo en un triángulo rectángulo es la relación entre la longitud del cateto opuesto (co) y la longitud de la hipotenusa (H).

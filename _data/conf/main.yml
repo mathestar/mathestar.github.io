@@ -66,7 +66,7 @@ sample_replace: "$site_sample"
 ###########################################################
 # to enable search feature, set to true
 # if you disable this feature, you don't need search.json file so please open the file and uncomment the "published: false"
-search_enable: true
+search_enable: false
 
 # if this is true, search list hides with mouse leave event
 # if this is false, search list hides with mouse click event
@@ -213,7 +213,7 @@ top_nav_brand_text_enable: true
 
 # set profile image
 # comment to disable the profile image
-side_nav_profile_img_path: /assets/img/posts/post_pic1.jpg
+side_nav_profile_img_path: /assets/img/default/mathestarLogo.png
 
 # this adds hover effect to bottom buttons
 side_nav_bottom_buttons_hover_effect: "hover-effect"
