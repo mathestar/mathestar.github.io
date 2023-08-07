@@ -48,7 +48,7 @@ meta_common_description: "Aquí enseñaremos matemáticas como si se las enseñ�
 # el orden de los elementos se mostrará como aquí.
 # comenta para eliminar cualquier elemento de contacto
 contacts:
-  - github: "https://github.com/mathestar/"
+  - github: "mathestar"
   #- email: ""
   #- linkedin: ""
   #- twitter: ""

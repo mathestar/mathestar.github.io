@@ -48,7 +48,7 @@ meta_common_description: "Hier werden wir Mathematik unterrichten, als würden w
 # Die Reihenfolge der Elemente wird wie hier angezeigt.
 # Kommentiere, um ein Kontaktelement zu entfernen
 contacts:
-  - github: "https://github.com/mathestar/"
+  - github: "mathestar"
   #- email: ""
   #- linkedin: ""
   #- twitter: ""
