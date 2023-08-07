@@ -12,7 +12,7 @@ date: 2023-07-28 11:32:53 -0400
 ## Rechtwinklige Dreiecke
 In einem rechtwinkligen Dreieck gibt es einen Winkel von 90 Grad, den wir als rechten Winkel bezeichnen. Die gegenüberliegende Seite dieses Winkels wird als Gegenkathete (co) bezeichnet, die angrenzende Seite als Ankathete (ca) und die längste Seite gegenüber dem rechten Winkel wird als Hypotenuse (H) bezeichnet.
 
-![Desktop View](/assets/images/math/trig.png)
+![Desktop View](/assets/img/posts/es/trig.png)
 
 ### Sinus (sin)
 Der Sinus eines Winkels in einem rechtwinkligen Dreieck ist das Verhältnis der Länge der Gegenkathete (co) zur Länge der Hypotenuse (H).

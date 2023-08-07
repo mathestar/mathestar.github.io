@@ -27,7 +27,7 @@ a² + b² = c²<br>
 
 Here, "a" and "b" represent the lengths of the two legs of the right-angled triangle, while "c" is the length of the hypotenuse - the side opposite the right angle.
 
-![Desktop View](/assets/images/math/pythagoras.png)
+![Desktop View](/assets/img/posts/pythagoras.png)
 
 ## Applying the Pythagorean Theorem
 To apply the Pythagorean Theorem, follow these simple steps:

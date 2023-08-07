@@ -12,7 +12,7 @@ date: 2023-07-28 11:32:53 -0400
 ## Right-Angled Triangles
 In a right-angled triangle, there is an angle of 90 degrees, which we call the right angle. The side opposite this angle is called the opposite side (co), the side adjacent to it is called the adjacent side (ca), and the longest side opposite the right angle is called the hypotenuse (H).
 
-![Desktop View](/assets/images/math/trig.png)
+![Desktop View](/assets/img/posts/es/trig.png)
 
 ### Sine (sin)
 The sine of an angle in a right-angled triangle is the ratio of the length of the opposite side (co) to the length of the hypotenuse (H).

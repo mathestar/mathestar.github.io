@@ -5,7 +5,7 @@
 brand: "Mathestar"
 
 # Text unter dem Markennamen
-brand_sub_text: "$site_sample"
+brand_sub_text: "Entdecke die Magie der Mathematik und eröffne dir eine Welt voller Möglichkeiten!"
 
 # wird für den SEO-Meta-Autor (falls nicht in der Post definiert) verwendet
 name: "Mathestar"
@@ -13,13 +13,13 @@ name: "Mathestar"
 # Texte für den oberen Kopfbereich der Startseite
 home:
   # Sie können auch $site_brand, $site_greetings, $site_welcome in Zeile 1 und Zeile 2 verwenden, um Texte zu ersetzen.
-  top_header_line1: "$site_welcome"
+  top_header_line1: "Willkommen zu"
   # Wenn auskommentiert, wird der obere Header eine einzelne Zeile sein
   top_header_line2: "$site_brand"
 
 # Untertitel der Seite "Über uns"
 about:
-  sub_title: "$site_sample"
+  sub_title: "Entdecke die Magie der Mathematik und eröffne dir eine Welt voller Möglichkeiten!"
 
 # Wenn kein Copyright-Jahr hinzugefügt werden soll, kommentieren Sie es aus oder lassen Sie es leer.
 # das Jahr, in dem das beanspruchte Urheberrecht für das Werk erstmals geltend gemacht wurde.
@@ -42,13 +42,13 @@ creative_commons:
 # SEO-Meta: Dies ist für jede Sprache erforderlich
 # Wenn meta_description im Front Matter nicht definiert ist, wird sie aus dem Inhalt (Post / Seite) erstellt,
 # falls kein Inhalt vorhanden ist, wird dies für die Seitenbeschreibung verwendet. Es wird auch in manifest.json verwendet
-meta_common_description: "Hier werde ich Mathematik unterrichten, als würde ich sie einem Fünfjährigen beibringen."
+meta_common_description: "Hier werden wir Mathematik unterrichten, als würden wir sie einem Fünfjährigen beibringen."
 
 # Kontaktmöglichkeiten (Seitenleiste unten und Seite "Über uns")
 # Die Reihenfolge der Elemente wird wie hier angezeigt.
 # Kommentiere, um ein Kontaktelement zu entfernen
 contacts:
-  #- github: ""
+  - github: "https://github.com/mathestar/"
   #- email: ""
   #- linkedin: ""
   #- twitter: ""
