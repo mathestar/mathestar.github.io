@@ -9,7 +9,7 @@ Die Webseite befindet sich derzeit in der Entwicklung. Wir arbeiten an der Gesta
 ## Pläne:
 - [x] Implementierung von Mehrsprachigkeit, um ein breiteres Publikum anzusprechen
 - [ ] Fertigstellung der Grundstruktur der Webseite
-- [ ] Implementierung von MathJax für mathematische Formeln und Ausdrücke
+- [x] Implementierung von einem System für mathematische Formeln und Ausdrücke
 - [x] Integration einer umfassenden Formelsammlung unter Verwendung von MathJax, um mathematische Konzepte in ansprechender Weise darzustellen
 - [ ] Übersetzung von Bildern wie `assets/img/posts/es/trig.png` in andere Sprachen
 - [ ] Erstellung von Beiträgen zu verschiedenen mathematischen Themen

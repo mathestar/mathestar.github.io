@@ -23,12 +23,12 @@ El Teorema de Pitágoras nos dice que el cuadrado de la longitud del lado largo 
 Imagina que tienes un cuadrado grande que es del mismo tamaño que el lado largo del triángulo. Luego tienes dos cuadrados más pequeños que son del mismo tamaño que los lados cortos del triángulo. Si sumas el área de los dos cuadrados más pequeños, será igual al área del cuadrado grande. ¡Eso es el Teorema de Pitágoras en acción!
 
 **El Teorema de Pitágoras dice:**<br>
-a² + b² = c²<br>
+<img src="https://latex.codecogs.com/svg.image?\large&space;a^2&plus;b^2=x^2"><br>
 
 Aquí, "a" y "b" son las longitudes de los dos catetos del triángulo rectángulo, mientras que "c" es la longitud de la hipotenusa, el lado que está opuesto al ángulo recto.
 
 
-![Desktop View](/assets/img/posts/pythagoras.png)
+![Desktop View](/assets/img/posts/pythagoras.png){: width="256" height="256" .w-20 .left}
 
 ## Aplicación del Teorema de Pitágoras
 Para aplicar el Teorema de Pitágoras, sigue estos sencillos pasos:
@@ -43,18 +43,18 @@ a = 3 cm<br>
 b = 4 cm
 
 **Paso 1:**<br>
-3² + 4² = 9 + 16 = 25
+<img src="https://latex.codecogs.com/svg.image?\large&space;3^2&plus;4^2=9&plus;16=25">
 
 **Paso 2:**<br>
-c = √25 = 5 cm
+<img src="https://latex.codecogs.com/svg.image?\large&space;c=\sqrt{25}=5cm">
 
 Así que la longitud de la hipotenusa "c" es 5 cm.
 
 ## Cálculo de "a" o "b"
 A veces conocemos la longitud de la hipotenusa "c" y uno de los catetos, por ejemplo, "a". Para calcular la longitud del otro cateto "b", puedes despejar el Teorema de Pitágoras:
 
-a² = c² - b²<br>
-b² = c² - a²
+<img src="https://latex.codecogs.com/svg.image?\large&space;a^2=c^2-b^2"><br>
+<img src="https://latex.codecogs.com/svg.image?\large&space;c^2=c^2-a^2">
 
 Luego, saca la raíz cuadrada de "b²" para obtener la longitud de "b".
 
@@ -64,8 +64,8 @@ c = 5 cm<br>
 a = 3 cm
 
 **Para calcular "b":**<br>
-b² = 5² - 3² = 25 - 9 = 16<br>
-b = √16 = 4 cm
+<img src="https://latex.codecogs.com/svg.image?\large&space;b^2=5^2-3^2=25-9=16"><br>
+<img src="https://latex.codecogs.com/svg.image?\large&space;b=\sqrt{16}=4cm">
 
 Así que la longitud del cateto "b" es 4 cm.
 
