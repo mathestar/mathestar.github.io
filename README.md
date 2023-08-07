@@ -1,5 +1,7 @@
 # Mathstar Webseite
 
+**Pull requests gehen an: https://github.com/david-star-git/mathestar.github.io**
+
 ## Beschreibung:
 Mathstar ist eine Webseite, die sich der Erklärung von Mathematik auf verständliche Weise widmet. Unser Ziel ist es, komplexe mathematische Konzepte einfach und unterhaltsam zu erklären, damit jeder die Freude an der Mathematik entdecken kann.
 
