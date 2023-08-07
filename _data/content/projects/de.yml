@@ -12,221 +12,67 @@ page_data:
     back_color: "lightblue"
 
   category:
-    - title: "Beispiel"
-      type: id_example
-      color: "grau"
-    - title: "Fotos"
-      type: id_picture
+    - title: "Geometrie"
+      type: id_geometry
+      color: "gray"
+    - title: "Algebra"
+      type: id_algebra
       color: "#62b462"
-    - title: "Zitate"
-      type: id_quote
+    - title: "Statistik"
+      type: id_statistic
       color: "#2FD0ED"
 
   list:
-    # Beispiel
-    - type: id_example
-      project_name: "Beispielprojekt"
-      project_excerpt: "Beispiel"
-      img: ":project1_thumb.jpg"
+    # Trig
+    - type: id_geometry
+      project_name: "Trigonometrie"
+      project_excerpt: "Entdecke die Welt der Winkel und Dreiecke: Die Trigonometrie enthüllt die Beziehungen zwischen Seiten und Winkeln, die unser Verständnis von Formen und Bewegungen prägen."
+      img: ":trig_es.png"
       img_title: "Bildtitel 1"
-      date: "2021-03-13"
+      date: "2023-08-07"
       post: |
-        # Beispiele
+        ## Wichtige Trigonometrische Identitäten:
 
-        Dies ist eine Beispiel-Seite, um Markdown-Stile für das Mr. Green Jekyll Theme anzuzeigen.
+        - Sinus-Identität: $sin^2(x) + cos^2(x) = 1$
+        - Tangens-Identität: $tan(x) = \frac{sin(x)}{cos(x)}$
 
-        ### Überschriften (zentriert)
-        {:data-align="center"}
+        ## Wichtige Winkelfunktionen:
 
-        # Überschrift 1
+        - Sinus: $sin(\theta) = \frac{\text{Gegenkathete}}{\text{Hypotenuse}}$
+        - Kosinus: $cos(\theta) = \frac{\text{Ankathete}}{\text{Hypotenuse}}$
+        - Tangens: $tan(\theta) = \frac{\text{Gegenkathete}}{\text{Ankathete}}$
 
-        ## Überschrift 2
+        ## Additionstheoreme:
 
-        ### Überschrift 3
+        - Sinus-Additionstheorem: $sin(A + B) = sin(A) \cdot cos(B) + cos(A) \cdot sin(B)$
+        - Kosinus-Additionstheorem: $cos(A + B) = cos(A) \cdot cos(B) - sin(A) \cdot sin(B)$
 
-        #### Überschrift 4
+        ## Periodizität:
 
-        ##### Überschrift 5
+        - Periodizität des Sinus: $sin(x + 2\pi) = sin(x)$
+        - Periodizität des Kosinus: $cos(x + 2\pi) = cos(x)$
+        - Periodizität des Tangens: $tan(x + \pi) = tan(x)$
 
-        ###### Überschrift 6
+        ## Umkehrfunktionen:
 
-        ***
+        - Arcus-Sinus: $sin^{-1}(x)$
+        - Arcus-Kosinus: $cos^{-1}(x)$
+        - Arcus-Tangens: $tan^{-1}(x)$
 
-        ### Absätze
+        ## Trigonometrische Pythagoras-Beziehung:
 
-        #### Absatz
+        - Pythagoras-Beziehung: $sin^2(x) + cos^2(x) = 1$
 
-        **William Shakespeare**, Lass mich die Ehe wahrer Seelen nicht behindern
-        Zugeben. Liebe ist keine Liebe,
-        Die sich verändert, wenn sie Veränderung findet,
-        Oder sich beugt, um zu entfernen.
-        Oh nein, es ist ein stets festes Zeichen,
-        Das auf Stürme schaut und nie erschüttert wird;
-        Es ist der Stern für jedes wandelnde Schiff,
-        Dessen Wert unbekannt ist, obwohl seine Höhe gemessen wird.
-        Die Liebe ist nicht Narrens Zeit, obwohl rote Lippen und Wangen
-        Kommen innerhalb des Biegens seiner Sichel;
-        Die Liebe ändert sich nicht mit seinen kurzen Stunden und Wochen,
-        Aber hält es sogar bis an den Rand des Verderbens aus.
-        Wenn dies ein Irrtum ist und mir bewiesen wird,
-        Habe ich nie geschrieben, und kein Mann hat je geliebt.
+        ## Winkelfunktionen im Einheitskreis:
 
-        #### Texte
+        - Sinus im Einheitskreis: $sin(\theta) = y$ (y-Koordinate)
+        - Kosinus im Einheitskreis: $cos(\theta) = x$ (x-Koordinate)
+        - Tangens im Einheitskreis: $tan(\theta) = \frac{y}{x}$
 
-        Zitierter Text `Hallo Welt`
+        ## Trigonometrische Funktionen von Spezialwinkeln:
 
-        Fetter Text **Hallo Welt**
-
-        Kursiver Text _Hallo Welt_
-
-        kbd-Text <kbd>Hallo Welt</kbd>
-
-        #### Blockzitat
-
-        > **William Shakespeare**, Lass mich die Ehe wahrer Seelen nicht behindern
-        Zugeben. Liebe ist keine Liebe,
-        Die sich verändert, wenn sie Veränderung findet,
-        Oder sich beugt, um zu entfernen.
-        Oh nein, es ist ein stets festes Zeichen,
-        Das auf Stürme schaut und nie erschüttert wird;
-        Es ist der Stern für jedes wandelnde Schiff,
-        Dessen Wert unbekannt ist, obwohl seine Höhe gemessen wird.
-        Die Liebe ist nicht Narrens Zeit, obwohl rote Lippen und Wangen
-        Kommen innerhalb des Biegens seiner Sichel;
-        Die Liebe ändert sich nicht mit seinen kurzen Stunden und Wochen,
-        Aber hält es sogar bis an den Rand des Verderbens aus.
-        Wenn dies ein Irrtum ist und mir bewiesen wird,
-        Habe ich nie geschrieben, und kein Mann hat je geliebt.
-
-        ### Link
-
-        Dies ist [Mr. Green Jekyll Theme](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme), ein einfaches Theme für [Jekyll](https://jekyllrb.com/).
-
-        ### Bild
-
-        ![So ein schöner Ort](:projects-heading.jpg)
-
-        ### Bild (zentriert)
-
-        ![So ein schöner Ort](:project1_thumb.jpg){:data-align="center"}
-
-        ### Listen
-
-        - Apfel
-        - Banane
-        - Orange
-
-        1. Früchte
-            1. Äpfel
-                - Granny Smith
-                - Mutsu
-            1. Bananen
-                - Cavendish
-                - Rot
-        1. Gemüse
-
-        ***
-
-        ### Tabellen
-
-        #### Kleine Tabelle (zentriert)
-
-        | Früchte(nicht ausgerichtet) | Ausrichtung (zentriert) | Num (rechts ausrichten) |
-        | --------------------------- | :---------------------: | ---------------------: |
-        | Apfel                       |        zentriert        |                  9999 |
-        | Banane                      |   zentrierter langer Text |                   999 |
-        | Orange                      |        zentriert        |                    99 |
-        | Zitrone                     |        zentriert        |                     9 |
-        {:data-align="center"}
-
-        #### Breite Tabelle (zentriert)
-
-        Scrollen aktiviert, wenn die Seite schmal ist
-
-        | Früchte | Num (links ausrichten) | Num (rechts ausrichten) | Num  | Num  | Num  |
-        | ------- | :-------------------- | ---------------------: | ---- | ---- | ---- |
-        | Apfel   |                  1111 |                  1111 | 2222 | 3333 | 4444 |
-        | Banane  |                   111 |                   111 | 222  | 333  | 444  |
-        | Orange  |                    11 |                    11 | 22   | 33   | 44   |
-        | Zitrone |                     1 |                     1 | 2    | 3    | 4    |
-        {:data-align="center"}
-
-        #### Breitere Tabelle
-
-        Scrollen aktiviert, wenn die Seite schmal ist
-
-        | Früchte | Num (links ausrichten) | Num (rechts ausrichten) | Num  | Num  | Num  | Num  | Num  | Num  |
-        | ------- | :-------------------- | ---------------------: | ---- | ---- | ---- | ---- | ---- | ---- |
-        | Apfel   |                  1111 |                  1111 | 2222 | 3333 | 4444 | 5555 | 6666 | 7777 |
-        | Banane  |                   111 |                   111 | 222  | 333  | 444  | 555  | 666  | 777  |
-        | Orange  |                    11 |                    11 | 22   | 33   | 44   | 55   | 66   | 77   |
-        | Zitrone |                     1 |                     1 | 2    | 3    | 4    | 5    | 6    | 7    |
-
-        ### Code
-
-        #### Zitat
-
-        ```python
-        for i in range(5, 10):
-          print(i)
-        ```
-
-    # Bild
-    - type: id_picture
-      project_name: "Beispielprojekt"
-      project_excerpt: "Fotos"
-      img: ":project2_thumb.jpg"
-      img_title: "Bildtitel 2"
-      date: "2021-04-23"
-      post: |
-        # Titel
-        Dies ist der Inhalt des Projekts.
-
-        ![Bild](:project2_thumb.jpg)
-
-    # Zitat
-    - type: id_quote
-      project_name: "Beispielprojekt"
-      project_excerpt: "William Shakespeare"
-      #img: ":project1_thumb.jpg"
-      #img_title: "Bildtitel 3"
-      date: "2021-05-27"
-      post: |
-        Lass mich die Ehe wahrer Seelen nicht behindern
-        Zugeben. Liebe ist keine Liebe,
-        Die sich verändert, wenn sie Veränderung findet,
-        Oder sich beugt, um zu entfernen.
-        Oh nein, es ist ein stets festes Zeichen,
-        Das auf Stürme schaut und nie erschüttert wird;
-        Es ist der Stern für jedes wandelnde Schiff,
-        Dessen Wert unbekannt ist, obwohl seine Höhe gemessen wird.
-        Die Liebe ist nicht Narrens Zeit, obwohl rote Lippen und Wangen
-        Kommen innerhalb des Biegens seiner Sichel;
-        Die Liebe ändert sich nicht mit seinen kurzen Stunden und Wochen,
-        Aber hält es sogar bis an den Rand des Verderbens aus.
-        Wenn dies ein Irrtum ist und mir bewiesen wird,
-        Habe ich nie geschrieben, und kein Mann hat je geliebt.
-    - type: id_quote
-      project_name: "Beispielprojekt"
-      project_excerpt: "Albert Einstein"
-      img: ":project2_thumb.jpg"
-      img_title: "Bildtitel 4"
-      date: "2021-06-08"
-      post: |
-        Zwei Dinge sind unendlich: das Universum und die menschliche Dummheit; und ich bin mir beim Universum nicht sicher.
-    - type: id_quote
-      project_name: "Beispielprojekt"
-      project_excerpt: "Mae West"
-      img: ":project1_thumb.jpg"
-      img_title: "Bildtitel 5"
-      date: "2021-08-20"
-      post: |
-        Du lebst nur einmal, aber wenn du es richtig machst, reicht einmal aus.
-    - type: id_quote
-      project_name: "Beispielprojekt"
-      project_excerpt: "Mahatma Gandhi"
-      img: ":project2_thumb.jpg"
-      img_title: "Bildtitel 6"
-      date: "2021-12-20"
-      post: |
-        Sei du selbst die Veränderung, die du dir wünschst für diese Welt.
+        - $sin(0°) = 0, \quad cos(0°) = 1, \quad tan(0°) = 0$
+        - $sin(30°) = \frac{1}{2}, \quad cos(30°) = \frac{\sqrt{3}}{2}, \quad tan(30°) = \frac{1}{\sqrt{3}}$
+        - $sin(45°) = \frac{\sqrt{2}}{2}, \quad cos(45°) = \frac{\sqrt{2}}{2}, \quad tan(45°) = 1$
+        - $sin(60°) = \frac{\sqrt{3}}{2}, \quad cos(60°) = \frac{1}{2}, \quad tan(60°) = \sqrt{3}$
+        - $sin(90°) = 1, \quad cos(90°) = 0, \quad tan(90°) = \infty$
