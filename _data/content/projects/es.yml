@@ -31,48 +31,20 @@ page_data:
       img_title: "Título de la imagen 1"
       date: "2023-08-07"
       post: |
-        ## Identidades trigonométricas importantes:
+        ## Seno (sin)
+        <img src="https://latex.codecogs.com/svg.image?\large&space;Seno(sin)=\frac{Cateto&space;opuesto(co)}{Hipotenusa(H)}">
 
-        - Identidad del seno: $sin^2(x) + cos^2(x) = 1$
-        - Identidad de la tangente: $tan(x) = \frac{sin(x)}{cos(x)}$
+        ## Coseno (cos)
+        <img src="https://latex.codecogs.com/svg.image?\large&space;Coseno(cos)=\frac{Catetoadyacente(ca)}{Hipotenusa(H)}">
 
-        ## Funciones angulares importantes:
+        ## Tangente (tan)
+        <img src="https://latex.codecogs.com/svg.image?\large&space;Tangente(tan)=\frac{Cateto&space;opuesto(co)}{Cateto&space;adyacente(ca)}">
 
-        - Seno: $sin(\theta) = \frac{\text{Cateto opuesto}}{\text{Hipotenusa}}$
-        - Coseno: $cos(\theta) = \frac{\text{Cateto adyacente}}{\text{Hipotenusa}}$
-        - Tangente: $tan(\theta) = \frac{\text{Cateto opuesto}}{\text{Cateto adyacente}}$
+        ## Ley de Cosenos
+        <img src="https://latex.codecogs.com/svg.image?\large&space;a^2=b^2&plus;c^2-2*b*c*cos(A)"><br>
+        <img src="https://latex.codecogs.com/svg.image?\large&space;b^2=a^2&plus;c^2-2*a*c*cos(B)"><br>
+        <img src="https://latex.codecogs.com/svg.image?\large&space;c^2=a^2&plus;b^2-2*a*b*cos(C)">
 
-        ## Fórmulas de adición:
-
-        - Fórmula de adición del seno: $sin(A + B) = sin(A) \cdot cos(B) + cos(A) \cdot sin(B)$
-        - Fórmula de adición del coseno: $cos(A + B) = cos(A) \cdot cos(B) - sin(A) \cdot sin(B)$
-
-        ## Periodicidad:
-
-        - Periodicidad del seno: $sin(x + 2\pi) = sin(x)$
-        - Periodicidad del coseno: $cos(x + 2\pi) = cos(x)$
-        - Periodicidad de la tangente: $tan(x + \pi) = tan(x)$
-
-        ## Funciones inversas:
-
-        - Arcoseno: $sin^{-1}(x)$
-        - Arcocoseno: $cos^{-1}(x)$
-        - Arcotangente: $tan^{-1}(x)$
-
-        ## Relación pitagórica trigonométrica:
-
-        - Relación pitagórica: $sin^2(x) + cos^2(x) = 1$
-
-        ## Funciones angulares en el círculo unitario:
-
-        - Seno en el círculo unitario: $sin(\theta) = y$ (coordenada y)
-        - Coseno en el círculo unitario: $cos(\theta) = x$ (coordenada x)
-        - Tangente en el círculo unitario: $tan(\theta) = \frac{y}{x}$
-
-        ## Funciones trigonométricas de ángulos especiales:
-
-        - $sin(0°) = 0, \quad cos(0°) = 1, \quad tan(0°) = 0$
-        - $sin(30°) = \frac{1}{2}, \quad cos(30°) = \frac{\sqrt{3}}{2}, \quad tan(30°) = \frac{1}{\sqrt{3}}$
-        - $sin(45°) = \frac{\sqrt{2}}{2}, \quad cos(45°) = \frac{\sqrt{2}}{2}, \quad tan(45°) = 1$
-        - $sin(60°) = \frac{\sqrt{3}}{2}, \quad cos(60°) = \frac{1}{2}, \quad tan(60°) = \sqrt{3}$
-        - $sin(90°) = 1, \quad cos(90°) = 0, \quad tan(90°) = \infty$
+        ### Ley de Senos
+        <img src="https://latex.codecogs.com/svg.image?\large&space;\frac{a}{sin(A)}=\frac{b}{sin(B)}=\frac{c}{sin(C)}">
+        

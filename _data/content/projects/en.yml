@@ -31,48 +31,20 @@ page_data:
       img_title: "Image Title 1"
       date: "2023-08-07"
       post: |
-        ## Important Trigonometric Identities:
+        ## Sine (sin)
+        <img src="https://latex.codecogs.com/svg.image?\large&space;Sine(sin)=\frac{Opposite&space;side(co)}{Hypotenuse(H)}">
 
-        - Sine Identity: $sin^2(x) + cos^2(x) = 1$
-        - Tangent Identity: $tan(x) = \frac{sin(x)}{cos(x)}$
+        ## Cosine (cos)
+        <img src="https://latex.codecogs.com/svg.image?\large&space;Cosine(cos)=\frac{Adjacent&space;Side(ca)}{Hypotenuse(H)}">
 
-        ## Important Angle Functions:
+        ## Tangent (tan)
+        <img src="https://latex.codecogs.com/svg.image?\large&space;Tangent(tan)=\frac{Opposite&space;Side(co)}{Adjacent&space;Side(ca)}">
 
-        - Sine: $sin(\theta) = \frac{\text{Opposite}}{\text{Hypotenuse}}$
-        - Cosine: $cos(\theta) = \frac{\text{Adjacent}}{\text{Hypotenuse}}$
-        - Tangent: $tan(\theta) = \frac{\text{Opposite}}{\text{Adjacent}}$
+        ## Law of Cosines
+        <img src="https://latex.codecogs.com/svg.image?\large&space;a^2=b^2&plus;c^2-2*b*c*cos(A)"><br>
+        <img src="https://latex.codecogs.com/svg.image?\large&space;b^2=a^2&plus;c^2-2*a*c*cos(B)"><br>
+        <img src="https://latex.codecogs.com/svg.image?\large&space;c^2=a^2&plus;b^2-2*a*b*cos(C)">
 
-        ## Addition Formulas:
-
-        - Sine Addition Formula: $sin(A + B) = sin(A) \cdot cos(B) + cos(A) \cdot sin(B)$
-        - Cosine Addition Formula: $cos(A + B) = cos(A) \cdot cos(B) - sin(A) \cdot sin(B)$
-
-        ## Periodicity:
-
-        - Periodicity of Sine: $sin(x + 2\pi) = sin(x)$
-        - Periodicity of Cosine: $cos(x + 2\pi) = cos(x)$
-        - Periodicity of Tangent: $tan(x + \pi) = tan(x)$
-
-        ## Inverse Functions:
-
-        - Arcsine: $sin^{-1}(x)$
-        - Arccosine: $cos^{-1}(x)$
-        - Arctangent: $tan^{-1}(x)$
-
-        ## Trigonometric Pythagorean Relationship:
-
-        - Pythagorean Relationship: $sin^2(x) + cos^2(x) = 1$
-
-        ## Angle Functions in the Unit Circle:
-
-        - Sine in the Unit Circle: $sin(\theta) = y$ (y-coordinate)
-        - Cosine in the Unit Circle: $cos(\theta) = x$ (x-coordinate)
-        - Tangent in the Unit Circle: $tan(\theta) = \frac{y}{x}$
-
-        ## Trigonometric Functions of Special Angles:
-
-        - $sin(0°) = 0, \quad cos(0°) = 1, \quad tan(0°) = 0$
-        - $sin(30°) = \frac{1}{2}, \quad cos(30°) = \frac{\sqrt{3}}{2}, \quad tan(30°) = \frac{1}{\sqrt{3}}$
-        - $sin(45°) = \frac{\sqrt{2}}{2}, \quad cos(45°) = \frac{\sqrt{2}}{2}, \quad tan(45°) = 1$
-        - $sin(60°) = \frac{\sqrt{3}}{2}, \quad cos(60°) = \frac{1}{2}, \quad tan(60°) = \sqrt{3}$
-        - $sin(90°) = 1, \quad cos(90°) = 0, \quad tan(90°) = \infty$
+        ## Law of Sines
+        <img src="https://latex.codecogs.com/svg.image?\large&space;\frac{a}{sin(A)}=\frac{b}{sin(B)}=\frac{c}{sin(C)}">
+        
