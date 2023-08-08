@@ -10,7 +10,7 @@ Die Webseite befindet sich derzeit in der Entwicklung. Wir arbeiten an der Gesta
 
 ## Pläne:
 - [x] Implementierung von Mehrsprachigkeit, um ein breiteres Publikum anzusprechen
-- [ ] Fertigstellung der Grundstruktur der Webseite
+- [x] Fertigstellung einer klaren Grundstruktur der Webseite
 - [x] Implementierung von einem System für mathematische Formeln und Ausdrücke
 - [x] Integration einer umfassenden Formelsammlung unter Verwendung von MathJax, um mathematische Konzepte in ansprechender Weise darzustellen
 - [ ] Übersetzung von Bildern wie `assets/img/posts/es/trig.png` in andere Sprachen
@@ -24,3 +24,67 @@ Wir freuen uns darauf, Mathstar zu einer inspirierenden und nützlichen Ressourc
 - Finde uns auf GitHub: https://github.com/mathestar
 
 Wir danken dir für dein Interesse an Mathstar und wünschen dir viel Spaß beim Entdecken der faszinierenden Welt der Mathematik!
+
+# Projekt Struktur
+./<br>
+├── [_data/]<br>
+│   ├── [conf/] <-- Config dateien<br>
+│   │   ├── [main.yml]<br>
+│   │   ├── [others.yml]<br>
+│   │   └── [posts.yml]<br>
+│   ├── [content/]<br>
+│   │   ├── [projects/] <-- Formelsammlung tab<br>
+│   │   │   ├── [de.yml]<br>
+│   │   │   ├── [en.yml]<br>
+│   │   │   └── [es.yml]<br>
+│   ├── [lang/] <-- Übersetzten Texte<br>
+│   │   ├── [de.yml]<br>
+│   │   ├── [en.yml]<br>
+│   │   └── [es.yml]<br>
+│   └── [owner/] <-- Information über den Besitzer<br>
+│       ├── [de.yml]<br>
+│       ├── [en.yml]<br>
+│       └── [es.yml]<br>
+├── [_posts/] <-- Spanishe Posts<br>
+├── [assets/]<br>
+│   └── [img/]<br>
+│       ├── [about/]<br>
+│       ├── [default/]<br>
+│       ├── [drawio/]<br>
+│       ├── [favicons/]<br>
+│       ├── [home/]<br>
+│       ├── [posts/] <-- Bilder ohne text<br>
+│       │   ├── [de/] <-- Bilder mit Deutschen text für Deutsche posts<br>
+│       │   ├── [en/] <-- Bilder mit Englishen text für Englishe posts<br>
+│       │   └── [es/] <-- Bilder mit Spanischen text für Spanische posts<br>
+│       └── [projects/]<br>
+├── [de/]<br>
+│   ├── [_posts/] <-- Deutsche Posts<br>
+│   ├── [tabs/]<br>
+│   │   ├── [about.md]<br>
+│   │   ├── [archive.md]<br>
+│   │   ├── [links.md]<br>
+│   │   └── [projects.md] <-- Platzhalter für `./_data/content/projects/de.yml`<br>
+│   ├── [404.md]<br>
+│   ├── [index.md]<br>
+│   └── [privacy-policy.md]<br>
+├── [en/]<br>
+│   ├── [_posts/] <-- Englishe Posts<br>
+│   ├── [tabs/]<br>
+│   │   ├── [about.md]<br>
+│   │   ├── [archive.md]<br>
+│   │   ├── [links.md]<br>
+│   │   └── [projects.md] <-- Platzhalter  für`./_data/content/projects/en.yml`<br>
+│   ├── [404.md]<br>
+│   ├── [index.md]<br>
+│   └── [privacy-policy.md]<br>
+├── [tabs/] <-- Spanishe Tabs<br>
+│   ├── [about.md]<br>
+│   ├── [archive.md]<br>
+│   ├── [links.md]<br>
+│   └── [projects.md] <-- Platzhalter für `./_data/content/projects/es.yml`<br>
+├── [_config.yml] <-- Haupt config Datei<br>
+├── [404.md]<br>
+├── [index.md]<br>
+├── [privacy-policy.md]<br>
+└── [README.md]<br>

@@ -31,48 +31,20 @@ page_data:
       img_title: "Bildtitel 1"
       date: "2023-08-07"
       post: |
-        ## Wichtige Trigonometrische Identitäten:
+        ## Sinus (sin)
+        <img src="https://latex.codecogs.com/svg.image?\large&space;Sinus(sin)=\frac{Gegenkathete(co)}{Hypotenuse(H)}">
 
-        - Sinus-Identität: $sin^2(x) + cos^2(x) = 1$
-        - Tangens-Identität: $tan(x) = \frac{sin(x)}{cos(x)}$
+        ## Kosinus (cos)
+        <img src="https://latex.codecogs.com/svg.image?\large&space;Kosinus(cos)=\frac{Ankathete(ca)}{Hypotenuse(H)}">
 
-        ## Wichtige Winkelfunktionen:
+        ## Tangens (tan)
+        <img src="https://latex.codecogs.com/svg.image?\large&space;Tangens(tan)=\frac{Gegenkathete(co)}{Ankathete(ca)}">
 
-        - Sinus: $sin(\theta) = \frac{\text{Gegenkathete}}{\text{Hypotenuse}}$
-        - Kosinus: $cos(\theta) = \frac{\text{Ankathete}}{\text{Hypotenuse}}$
-        - Tangens: $tan(\theta) = \frac{\text{Gegenkathete}}{\text{Ankathete}}$
+        ## Satz von Cosinus
+        <img src="https://latex.codecogs.com/svg.image?\large&space;a^2=b^2&plus;c^2-2*b*c*cos(A)"><br>
+        <img src="https://latex.codecogs.com/svg.image?\large&space;b^2=a^2&plus;c^2-2*a*c*cos(B)"><br>
+        <img src="https://latex.codecogs.com/svg.image?\large&space;c^2=a^2&plus;b^2-2*a*b*cos(C)">
 
-        ## Additionstheoreme:
-
-        - Sinus-Additionstheorem: $sin(A + B) = sin(A) \cdot cos(B) + cos(A) \cdot sin(B)$
-        - Kosinus-Additionstheorem: $cos(A + B) = cos(A) \cdot cos(B) - sin(A) \cdot sin(B)$
-
-        ## Periodizität:
-
-        - Periodizität des Sinus: $sin(x + 2\pi) = sin(x)$
-        - Periodizität des Kosinus: $cos(x + 2\pi) = cos(x)$
-        - Periodizität des Tangens: $tan(x + \pi) = tan(x)$
-
-        ## Umkehrfunktionen:
-
-        - Arcus-Sinus: $sin^{-1}(x)$
-        - Arcus-Kosinus: $cos^{-1}(x)$
-        - Arcus-Tangens: $tan^{-1}(x)$
-
-        ## Trigonometrische Pythagoras-Beziehung:
-
-        - Pythagoras-Beziehung: $sin^2(x) + cos^2(x) = 1$
-
-        ## Winkelfunktionen im Einheitskreis:
-
-        - Sinus im Einheitskreis: $sin(\theta) = y$ (y-Koordinate)
-        - Kosinus im Einheitskreis: $cos(\theta) = x$ (x-Koordinate)
-        - Tangens im Einheitskreis: $tan(\theta) = \frac{y}{x}$
-
-        ## Trigonometrische Funktionen von Spezialwinkeln:
-
-        - $sin(0°) = 0, \quad cos(0°) = 1, \quad tan(0°) = 0$
-        - $sin(30°) = \frac{1}{2}, \quad cos(30°) = \frac{\sqrt{3}}{2}, \quad tan(30°) = \frac{1}{\sqrt{3}}$
-        - $sin(45°) = \frac{\sqrt{2}}{2}, \quad cos(45°) = \frac{\sqrt{2}}{2}, \quad tan(45°) = 1$
-        - $sin(60°) = \frac{\sqrt{3}}{2}, \quad cos(60°) = \frac{1}{2}, \quad tan(60°) = \sqrt{3}$
-        - $sin(90°) = 1, \quad cos(90°) = 0, \quad tan(90°) = \infty$
+        ## Satz von Sinus
+        <img src="https://latex.codecogs.com/svg.image?\large&space;\frac{a}{sin(A)}=\frac{b}{sin(B)}=\frac{c}{sin(C)}">
+        
