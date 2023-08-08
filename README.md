@@ -23,6 +23,9 @@ Wir freuen uns darauf, Mathstar zu einer inspirierenden und nützlichen Ressourc
 - Webseite: https://mathestar.github.io/
 - Finde uns auf GitHub: https://github.com/mathestar
 
+## Links:
+- Mathe Formeln: https://editor.codecogs.com/
+
 Wir danken dir für dein Interesse an Mathstar und wünschen dir viel Spaß beim Entdecken der faszinierenden Welt der Mathematik!
 
 # Projekt Struktur
