@@ -32,19 +32,19 @@ page_data:
       date: "2023-08-07"
       post: |
         ## Sine (sin)
-        <img src="https://latex.codecogs.com/svg.image?\large&space;Sine(sin)=\frac{Opposite&space;side(co)}{Hypotenuse(H)}">
+        <img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}Sine(sin)=\frac{Opposite&space;side(co)}{Hypotenuse(H)}}">
 
         ## Cosine (cos)
-        <img src="https://latex.codecogs.com/svg.image?\large&space;Cosine(cos)=\frac{Adjacent&space;Side(ca)}{Hypotenuse(H)}">
+        <img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}Cosine(cos)=\frac{Adjacent&space;Side(ca)}{Hypotenuse(H)}}">
 
         ## Tangent (tan)
-        <img src="https://latex.codecogs.com/svg.image?\large&space;Tangent(tan)=\frac{Opposite&space;Side(co)}{Adjacent&space;Side(ca)}">
+        <img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}Tangent(tan)=\frac{Opposite&space;Side(co)}{Adjacent&space;Side(ca)}}">
 
         ## Law of Cosines
-        <img src="https://latex.codecogs.com/svg.image?\large&space;a^2=b^2&plus;c^2-2*b*c*cos(A)"><br>
-        <img src="https://latex.codecogs.com/svg.image?\large&space;b^2=a^2&plus;c^2-2*a*c*cos(B)"><br>
-        <img src="https://latex.codecogs.com/svg.image?\large&space;c^2=a^2&plus;b^2-2*a*b*cos(C)">
+        <img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}a^2=b^2&plus;c^2-2*b*c*cos(A)}"><br>
+        <img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}b^2=a^2&plus;c^2-2*a*c*cos(B)}"><br>
+        <img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}c^2=a^2&plus;b^2-2*a*b*cos(C)}">
 
         ## Law of Sines
-        <img src="https://latex.codecogs.com/svg.image?\large&space;\frac{a}{sin(A)}=\frac{b}{sin(B)}=\frac{c}{sin(C)}">
+        <img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}\frac{a}{sin(A)}=\frac{b}{sin(B)}=\frac{c}{sin(C)}}">
         

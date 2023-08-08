@@ -18,21 +18,21 @@ In einem rechtwinkligen Dreieck gibt es einen Winkel von 90 Grad, den wir als re
 ### Sinus (sin)
 Der Sinus eines Winkels in einem rechtwinkligen Dreieck ist das Verhältnis der Länge der Gegenkathete (co) zur Länge der Hypotenuse (H).
 
-<img src="https://latex.codecogs.com/svg.image?\large&space;Sinus(sin)=\frac{Gegenkathete(co)}{Hypotenuse(H)}">
+<img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}Sinus(sin)=\frac{Gegenkathete(co)}{Hypotenuse(H)}}">
 
 Um den Sinus eines Winkels zu berechnen, teilen wir also einfach die Länge der Gegenkathete (co) durch die Länge der Hypotenuse (H). Der Sinus gibt uns an, wie groß der Winkel im Verhältnis zur Hypotenuse (H) ist. Ein großer Sinus-Wert bedeutet einen steilen Winkel, während ein kleiner Sinus-Wert auf einen flachen Winkel hinweist.
 
 ### Kosinus (cos)
 Der Kosinus eines Winkels in einem rechtwinkligen Dreieck ist das Verhältnis der Länge der Ankathete (ca) zur Länge der Hypotenuse (H).
 
-<img src="https://latex.codecogs.com/svg.image?\large&space;Kosinus(cos)=\frac{Ankathete(ca)}{Hypotenuse(H)}">
+<img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}Kosinus(cos)=\frac{Ankathete(ca)}{Hypotenuse(H)}}">
 
 Um den Kosinus eines Winkels zu berechnen, teilen wir die Länge der Ankathete (ca) durch die Länge der Hypotenuse (H). Der Kosinus gibt uns an, wie groß der Winkel im Verhältnis zur Hypotenuse (H) ist, aber aus einer anderen Perspektive als der Sinus. Wenn der Sinus groß ist, ist der Kosinus klein und umgekehrt. Das bedeutet, wenn ein Winkel steil ist, ist der andere Winkel flach und umgekehrt.
 
 ### Tangens (tan)
 Der Tangens eines Winkels in einem rechtwinkligen Dreieck ist das Verhältnis der Länge der Gegenkathete (co) zur Länge der Ankathete (ca).
 
-<img src="https://latex.codecogs.com/svg.image?\large&space;Tangens(tan)=\frac{Gegenkathete(co)}{Ankathete(ca)}">
+<img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}Tangens(tan)=\frac{Gegenkathete(co)}{Ankathete(ca)}}">
 
 Der Tangens zeigt uns, wie groß der Winkel im Verhältnis zur Ankathete (ca) ist. Ein großer Tangens-Wert bedeutet einen steilen Winkel im Verhältnis zur Ankathete (ca), während ein kleiner Tangens-Wert auf einen flachen Winkel im Verhältnis zur Ankathete (ca) hinweist.
 
@@ -46,16 +46,16 @@ Für nicht rechtwinklige Dreiecke können wir den Satz von Cosinus und den Satz 
 ### Satz von Cosinus
 Der Satz von Cosinus besagt, dass das Quadrat einer Seite eines Dreiecks gleich der Summe der Quadrate der anderen beiden Seiten abzüglich des doppelten Produkts dieser Seiten und des Kosinus des entgegengesetzten Winkels ist.
 
-<img src="https://latex.codecogs.com/svg.image?\large&space;a^2=b^2&plus;c^2-2*b*c*cos(A)"><br>
-<img src="https://latex.codecogs.com/svg.image?\large&space;b^2=a^2&plus;c^2-2*a*c*cos(B)"><br>
-<img src="https://latex.codecogs.com/svg.image?\large&space;c^2=a^2&plus;b^2-2*a*b*cos(C)">
+<img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}a^2=b^2&plus;c^2-2*b*c*cos(A)}"><br>
+<img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}b^2=a^2&plus;c^2-2*a*c*cos(B)}"><br>
+<img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}c^2=a^2&plus;b^2-2*a*b*cos(C)}">
 
 Der Satz von Cosinus ermöglicht es uns, die Längen der Seiten eines nicht rechtwinkligen Dreiecks zu berechnen, wenn wir die Größe der Winkel und die Längen der anderen Seiten kennen.
 
 ### Satz von Sinus
 Der Satz von Sinus besagt, dass das Verhältnis der Länge einer Seite zu dem Sinus des entgegengesetzten Winkels in einem Dreieck konstant ist.
 
-<img src="https://latex.codecogs.com/svg.image?\large&space;\frac{a}{sin(A)}=\frac{b}{sin(B)}=\frac{c}{sin(C)}">
+<img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}\frac{a}{sin(A)}=\frac{b}{sin(B)}=\frac{c}{sin(C)}}">
 
 Mit Hilfe des Satzes von Sinus können wir die Längen der Seiten oder die Größe der Winkel in einem nicht rechtwinkligen Dreieck berechnen, wenn wir die Länge einer Seite und den entgegengesetzten Winkel kennen.
 
