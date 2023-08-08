@@ -23,7 +23,7 @@ The Pythagorean Theorem tells us that the square of the length of the long side 
 Imagine you have a big square that is as big as the long side of the triangle. Then you have two smaller squares that are as big as the short sides of the triangle. When you add up the areas of the two smaller squares, it is exactly equal to the area of the big square. That's the Pythagorean Theorem in action!
 
 **The Pythagorean Theorem is:**<br>
-<img src="https://latex.codecogs.com/svg.image?\large&space;a^2&plus;b^2=x^2"><br>
+<img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}a^2&plus;b^2=x^2}"><br>
 
 Here, "a" and "b" represent the lengths of the two legs of the right-angled triangle, while "c" is the length of the hypotenuse - the side opposite the right angle.
 
@@ -42,18 +42,18 @@ a = 3 cm<br>
 b = 4 cm
 
 **Step 1:**<br>
-<img src="https://latex.codecogs.com/svg.image?\large&space;3^2&plus;4^2=9&plus;16=25">
+<img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}3^2&plus;4^2=9&plus;16=25}">
 
 **Step 2:**<br>
-<img src="https://latex.codecogs.com/svg.image?\large&space;c=\sqrt{25}=5cm">
+<img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}c=\sqrt{25}=5cm}">
 
 So, the length of the hypotenuse "c" is 5 cm.
 
 ## Calculating "a" or "b"
 Sometimes, we know the length of the hypotenuse "c" and one of the legs, such as "a". To calculate the length of the other leg "b", you can rearrange the Pythagorean Theorem:
 
-<img src="https://latex.codecogs.com/svg.image?\large&space;a^2=c^2-b^2"><br>
-<img src="https://latex.codecogs.com/svg.image?\large&space;c^2=c^2-a^2">
+<img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}a^2=c^2-b^2}"><br>
+<img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}c^2=c^2-a^2}">
 
 Then, take the square root of "b²" to find the length of "b".
 
@@ -63,8 +63,8 @@ c = 5 cm<br>
 a = 3 cm
 
 **To find "b":**<br>
-<img src="https://latex.codecogs.com/svg.image?\large&space;b^2=5^2-3^2=25-9=16"><br>
-<img src="https://latex.codecogs.com/svg.image?\large&space;b=\sqrt{16}=4cm">
+<img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}b^2=5^2-3^2=25-9=16}"><br>
+<img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}b=\sqrt{16}=4cm}">
 
 So, the length of the leg "b" is 4 cm.
 

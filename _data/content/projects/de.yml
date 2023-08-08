@@ -32,19 +32,19 @@ page_data:
       date: "2023-08-07"
       post: |
         ## Sinus (sin)
-        <img src="https://latex.codecogs.com/svg.image?\large&space;Sinus(sin)=\frac{Gegenkathete(co)}{Hypotenuse(H)}">
+        <img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}Sinus(sin)=\frac{Gegenkathete(co)}{Hypotenuse(H)}}">
 
         ## Kosinus (cos)
-        <img src="https://latex.codecogs.com/svg.image?\large&space;Kosinus(cos)=\frac{Ankathete(ca)}{Hypotenuse(H)}">
+        <img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}Kosinus(cos)=\frac{Ankathete(ca)}{Hypotenuse(H)}}">
 
         ## Tangens (tan)
-        <img src="https://latex.codecogs.com/svg.image?\large&space;Tangens(tan)=\frac{Gegenkathete(co)}{Ankathete(ca)}">
+        <img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}Tangens(tan)=\frac{Gegenkathete(co)}{Ankathete(ca)}}">
 
         ## Satz von Cosinus
-        <img src="https://latex.codecogs.com/svg.image?\large&space;a^2=b^2&plus;c^2-2*b*c*cos(A)"><br>
-        <img src="https://latex.codecogs.com/svg.image?\large&space;b^2=a^2&plus;c^2-2*a*c*cos(B)"><br>
-        <img src="https://latex.codecogs.com/svg.image?\large&space;c^2=a^2&plus;b^2-2*a*b*cos(C)">
+        <img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}a^2=b^2&plus;c^2-2*b*c*cos(A)}"><br>
+        <img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}b^2=a^2&plus;c^2-2*a*c*cos(B)}"><br>
+        <img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}c^2=a^2&plus;b^2-2*a*b*cos(C)}">
 
         ## Satz von Sinus
-        <img src="https://latex.codecogs.com/svg.image?\large&space;\frac{a}{sin(A)}=\frac{b}{sin(B)}=\frac{c}{sin(C)}">
+        <img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}\frac{a}{sin(A)}=\frac{b}{sin(B)}=\frac{c}{sin(C)}}">
         
