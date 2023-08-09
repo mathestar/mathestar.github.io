@@ -4,7 +4,7 @@ title: Archimedes - Maestro de las Matemáticas y la Ingeniería
 category: [Matemáticos, Historia de las Matemáticas]
 tags: [Archímedes, Geometría, Física, Ingeniería, Matemáticas antiguas]
 comments_disable: true
-date: 2023-07-28 15:00:00 -0400
+date: 2023-08-09 15:00:00 -0400
 img: ":archimedes.png"
 ---
 
