@@ -5,9 +5,9 @@ category: [Informatik, Zahlensystem]
 tags: [binär, dezimal, zahlensystem, umrechnung, bits, bytes, ascii, unicode]
 comments_disable: true
 date: 2023-07-29 11:32:53 -0400
+img: ":binary.png"
 ---
 
-# Das binäre Zahlensystem einfach erklärt
 In der faszinierenden Welt der Computer verwenden wir das binäre Zahlensystem. Das hört sich vielleicht kompliziert an, aber keine Sorge, wir werden es ganz einfach erklären!
 
 ## Das Dezimalsystem - Zahlen, die wir kennen

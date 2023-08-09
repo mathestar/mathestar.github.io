@@ -5,9 +5,9 @@ category: [geometry]
 tags: [pythagorean theorem, right-angled triangles, cathetus, hypotenuse, geometric-calculations]
 comments_disable: true
 date: 2023-07-28 11:32:53 -0400
+img: ":pythagoras_logo.png"
 ---
 
-# The Pythagorean Theorem Explained Simply
 The Pythagorean Theorem is one of the fundamental ideas in Geometry and is named after the ancient Greek mathematician Pythagoras. It helps us calculate the length of one side of a right-angled triangle when we know the lengths of the other two sides.
 
 ## What is a Right-Angled Triangle?

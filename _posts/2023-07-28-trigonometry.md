@@ -5,6 +5,7 @@ category: [geometría]
 tags: [trigonometría, seno, coseno, tangente, triángulos rectángulos, cálculos-geométricos]
 comments_disable: true
 date: 2023-07-28 11:32:53 -0400
+img: ":trig.png"
 ---
 
 # Trigonometría: Seno, Coseno y Tangente en triángulos rectángulos

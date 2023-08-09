@@ -5,9 +5,9 @@ category: [Geometrie]
 tags: [pythagoras-satz, rechtwinkelige-dreiecke, katheten, hypotenuse, geometrische-berechnungen]
 comments_disable: true
 date: 2023-07-28 11:32:53 -0400
+img: ":pythagoras_logo.png"
 ---
 
-# Der Satz von Pythagoras einfach erklärt
 Der Satz von Pythagoras ist eine der grundlegenden Ideen in der Geometrie und wurde nach dem antiken griechischen Mathematiker Pythagoras benannt. Er hilft uns, die Länge einer Seite in einem rechtwinkligen Dreieck zu berechnen, wenn wir die Längen der anderen beiden Seiten kennen.
 
 ## Was ist ein rechtwinkeliges Dreieck?

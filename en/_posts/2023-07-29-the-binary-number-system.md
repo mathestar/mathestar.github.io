@@ -5,9 +5,9 @@ category: [computer science, number system]
 tags: [binary, decimal, number system, conversion, bits, bytes, ascii, unicode]
 comments_disable: true
 date: 2023-07-29 11:32:53 -0400
+img: ":binary.png"
 ---
 
-# Explaining the Binary Number System Simply
 In the fascinating world of computers, we use the binary number system. It may sound complicated, but don't worry, we'll explain it in a very simple way!
 
 ## The Decimal System - Numbers We Know

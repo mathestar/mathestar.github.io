@@ -5,9 +5,9 @@ category: [informática, sistema numérico]
 tags: [binario, decimal, sistema numérico, conversión, bits, bytes, ascii, unicode]
 comments_disable: true
 date: 2023-07-29 11:32:53 -0400
+img: ":binary.png"
 ---
 
-# El sistema numérico binario explicado de manera sencilla
 En el fascinante mundo de las computadoras, utilizamos el sistema numérico binario. Puede sonar complicado, ¡pero no te preocupes, lo explicaremos de forma muy sencilla!
 
 ## El sistema decimal: números que conocemos

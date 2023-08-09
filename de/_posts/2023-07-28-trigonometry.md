@@ -6,6 +6,7 @@ tags: [trigonometrie, sinus, kosinus, tangens, rechtwinklige-dreiecke, geometris
 comments_disable: true
 math: true
 date: 2023-07-28 11:32:53 -0400
+img: ":trig.png"
 ---
 
 # Trigonometrie: Sinus, Kosinus und Tangens in rechtwinkligen Dreiecken
