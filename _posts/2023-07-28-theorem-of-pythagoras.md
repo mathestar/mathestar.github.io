@@ -5,9 +5,9 @@ category: [geometría]
 tags: [teorema de pitágoras, triángulos rectángulos, cateto, hipotenusa, cálculos geométricos]
 comments_disable: true
 date: 2023-07-28 11:32:53 -0400
+img: ":pythagoras_logo.png"
 ---
 
-# El Teorema de Pitágoras explicado de forma sencilla
 El Teorema de Pitágoras es una de las ideas fundamentales en Geometría y lleva el nombre del antiguo matemático griego Pitágoras. Nos ayuda a calcular la longitud de un lado en un triángulo rectángulo cuando conocemos las longitudes de los otros dos lados.
 
 ## ¿Qué es un triángulo rectángulo?

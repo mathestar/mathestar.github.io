@@ -5,6 +5,7 @@ category: [geometry]
 tags: [trigonometry, sine, cosine, tangent, right triangles, geometric-calculations]
 comments_disable: true
 date: 2023-07-28 11:32:53 -0400
+img: ":trig.png"
 ---
 
 # Trigonometry: Sine, Cosine, and Tangent in Right-Angled Triangles
