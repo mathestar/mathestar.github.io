@@ -5,7 +5,7 @@ category: [Matemáticos, Historia de las Matemáticas]
 tags: [Archímedes, Geometría, Física, Ingeniería, Matemáticas antiguas]
 comments_disable: true
 date: 2023-07-28 15:00:00 -0400
-img: ":pythagoras.png"
+img: ":archimedes.png"
 ---
 
 ![Desktop View](/assets/img/posts/archimedes.png){: width="256" height="256" .w-20 .left}
