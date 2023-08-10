@@ -53,7 +53,7 @@ So, the length of the hypotenuse "c" is 5 cm.
 Sometimes, we know the length of the hypotenuse "c" and one of the legs, such as "a". To calculate the length of the other leg "b", you can rearrange the Pythagorean Theorem:
 
 <img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}a^2=c^2-b^2}"><br>
-<img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}c^2=c^2-a^2}">
+<img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}b^2=c^2-a^2}">
 
 Then, take the square root of "b²" to find the length of "b".
 
