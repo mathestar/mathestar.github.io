@@ -54,7 +54,7 @@ Así que la longitud de la hipotenusa "c" es 5 cm.
 A veces conocemos la longitud de la hipotenusa "c" y uno de los catetos, por ejemplo, "a". Para calcular la longitud del otro cateto "b", puedes despejar el Teorema de Pitágoras:
 
 <img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}a^2=c^2-b^2}"><br>
-<img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}c^2=c^2-a^2}">
+<img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}b^2=c^2-a^2}">
 
 Luego, saca la raíz cuadrada de "b²" para obtener la longitud de "b".
 

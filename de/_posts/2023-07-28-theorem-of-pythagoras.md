@@ -53,7 +53,7 @@ Also ist die Länge der Hypotenuse "c" 5 cm.
 Manchmal kennen wir die Länge der Hypotenuse "c" und eine der Katheten, z. B. "a". Um die Länge der anderen Kathete "b" zu berechnen, kannst du das Satz von Pythagoras umstellen:
 
 <img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}a^2=c^2-b^2}"><br>
-<img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}c^2=c^2-a^2}">
+<img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}b^2=c^2-a^2}">
 
 Dann ziehe die Quadratwurzel von "b²", um die Länge von "b" zu erhalten.
 
