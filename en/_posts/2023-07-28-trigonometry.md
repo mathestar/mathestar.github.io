@@ -59,6 +59,47 @@ The Law of Sines states that the ratio of the length of one side to the sine of 
 
 Using the Law of Sines, we can calculate the lengths of the sides or the sizes of the angles in a non-right-angled triangle when we know the length of one side and the opposite angle.
 
+## Example: Triangle Calculations
+We are dealing with a triangle with the following given values:
+
+Angle A = 110°25'36"
+Side b = 92 m
+Side c = 24 m
+
+Our objective is to calculate the missing values: Angle B, Angle C, and Side a.
+
+### Step 1: Calculation of Side a
+
+We can calculate the lengths of the sides using the Law of Cosines:
+
+<img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}a^{2}=b^{2}&plus;c^{2}-2*b*c*cos(A)}"><br><br>
+<img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}a^{2}=92^{2}&plus;24^{2}-2*92*24*cos(110^{\circ}25'36'')}"><br><br>
+<img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}a=\sqrt{92^{2}&plus;24^{2}-2*92*24*cos(110^{\circ}25'36'')}}">
+
+As a result:
+
+<img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}102,97cm=\sqrt{92^{2}&plus;24^{2}-2*92*24*cos(110^{\circ}25'36'')}}">
+
+### Step 2: Calculation of Angle B
+We start with the equation: <img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}\frac{sin(B)}{b}=\frac{Sin(A)}{a}}"><br>
+
+1. To isolate Angle B, we can multiply both sides by b: <img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}B=\frac{b*Sin(A)}{a}}"><br>
+
+2. To isolate Angle B, we apply the inverse sine function (Arcsine or sin⁻¹) to both sides: <img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}sin^{-1}(sin(B))=sin^{-1}\frac{b*Sin(A)}{a}}"><br>
+
+3. Since the inverse sine function cancels itself out, we get: <img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}B=sin^{-1}\frac{b*Sin(A)}{a}}"><br>
+
+Now, with the derived formula, we can use it to calculate Angle B:
+
+<img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}B=sin^{-1}\frac{92*Sin(110^{\circ}25'36'')}{102,87}}"><br><br>
+<img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}56^{\circ}56'23''=sin^{-1}\frac{92*Sin(110^{\circ}25'36'')}{102,87}}"><br>
+
+### Step 3: Calculation of Angle C
+Given that the sum of the interior angles of a triangle is 180°, we can calculate Angle C:
+
+<img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}C=180^{\circ}-A-B}"><br>
+<img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}C=180^{\circ}-110^{\circ}25'36''-56^{\circ}56'23''}">
+
 Trigonometry opens up a fascinating world of calculations and geometric relationships that find applications in many areas.
 
 Try it out yourself and discover the fascinating world of Trigonometry!
