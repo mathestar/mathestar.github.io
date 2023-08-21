@@ -59,6 +59,50 @@ La Ley de Senos establece que la razón de la longitud de un lado al seno del á
 
 Con la ayuda de la Ley de Senos, podemos calcular las longitudes de los lados o el tamaño de los ángulos en un triángulo no rectángulo si conocemos la longitud de un lado y el ángulo opuesto.
 
+## Ejemplo: Cálculos de un triángulo
+
+Tenemos un triángulo con los valores dados:
+
+Ángulo A = 110°25'36"
+Lado b = 92 m
+Lado c = 24 m
+
+Nuestra tarea es calcular los valores faltantes: Ángulo B, Ángulo C y Lado a.
+
+### Paso 1: Cálculo del Lado a
+
+Podemos calcular las longitudes de los lados utilizando la Ley de los cosenos:
+
+<img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}a^{2}=b^{2}&plus;c^{2}-2*b*c*cos(A)}"><br><br>
+<img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}a^{2}=92^{2}&plus;24^{2}-2*92*24*cos(110^{\circ}25'36'')}"><br><br>
+<img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}a=\sqrt{92^{2}&plus;24^{2}-2*92*24*cos(110^{\circ}25'36'')}}">
+
+De aquí obtenemos:
+
+<img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}102,97cm=\sqrt{92^{2}&plus;24^{2}-2*92*24*cos(110^{\circ}25'36'')}}">
+
+### Paso 2: Cálculo del Ángulo B
+
+Comenzamos con la ecuación: <img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}\frac{sin(B)}{b}=\frac{Sin(A)}{a}}"><br>
+
+1. Para aislar el Ángulo B, podemos multiplicar ambos lados por b: <img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}B=\frac{b*Sin(A)}{a}}"><br>
+
+2. Para aislar el Ángulo B, aplicamos la función inversa del seno (Arcseno o sin⁻¹) en ambos lados: <img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}sin^{-1}(sin(B))=sin^{-1}\frac{b*Sin(A)}{a}}"><br>
+
+3. Dado que la función inversa del seno se cancela a sí misma, obtenemos: <img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}B=sin^{-1}\frac{b*Sin(A)}{a}}"><br>
+
+Ahora, con la derivación de la fórmula, podemos usarla para calcular el Ángulo B:
+
+<img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}B=sin^{-1}\frac{92*Sin(110^{\circ}25'36'')}{102,87}}"><br><br>
+<img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}56^{\circ}56'23''=sin^{-1}\frac{92*Sin(110^{\circ}25'36'')}{102,87}}"><br>
+
+### Paso 3: Cálculo del Ángulo C
+
+Dado que la suma de los ángulos internos de un triángulo es 180°, podemos calcular el Ángulo C:
+
+<img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}C=180^{\circ}-A-B}"><br>
+<img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}C=180^{\circ}-110^{\circ}25'36''-56^{\circ}56'23''}">
+
 La Trigonometría nos abre un mundo fascinante de cálculos y relaciones geométricas que se aplican en muchas áreas.
 
 ¡Pruébalo tú mismo y descubre el fascinante mundo de la Trigonometría!

@@ -60,6 +60,50 @@ Der Satz von Sinus besagt, dass das Verhältnis der Länge einer Seite zu dem Si
 
 Mit Hilfe des Satzes von Sinus können wir die Längen der Seiten oder die Größe der Winkel in einem nicht rechtwinkligen Dreieck berechnen, wenn wir die Länge einer Seite und den entgegengesetzten Winkel kennen.
 
+## Beispiel: Dreiecksberechnungen
+
+Wir haben ein Dreieck mit den gegebenen Werten:
+
+- Winkel A = 110°25'36"
+- Seite b = 92 m
+- Seite c = 24 m
+
+Unsere Aufgabe ist es, die fehlenden Werte zu berechnen: Winkel B, Winkel C und Seite a.
+
+### Schritt 1: Berechnung von Seite a
+
+Wir können die Seitenlängen mithilfe des Cosinussatzes berechnen:
+
+<img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}a^{2}=b^{2}&plus;c^{2}-2*b*c*cos(A)}"><br><br>
+<img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}a^{2}=92^{2}&plus;24^{2}-2*92*24*cos(110^{\circ}25'36'')}"><br><br>
+<img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}a=\sqrt{92^{2}&plus;24^{2}-2*92*24*cos(110^{\circ}25'36'')}}">
+
+Daraus ergibt sich:
+
+<img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}102,97cm=\sqrt{92^{2}&plus;24^{2}-2*92*24*cos(110^{\circ}25'36'')}}">
+
+### Schritt 2: Berechnung von Winkel B
+
+Wir starten mit der Gleichung: <img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}\frac{sin(B)}{b}=\frac{Sin(A)}{a}}"><br>
+
+1. Um Winkel B zu isolieren, können wir die Multiplikation beider Seiten mit b durchführen: <img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}B=\frac{b*Sin(A)}{a}}"><br>
+
+2. Um Winkel B zu isolieren, wenden wir die Umkehrfunktion des Sinus an (Arcsin oder sin⁻¹) auf beide Seiten: <img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}sin^{-1}(sin(B))=sin^{-1}\frac{b*Sin(A)}{a}}"><br>
+
+3. Da die Umkehrfunktion des Sinus auf sich selbst "kürzt", erhalten wir: <img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}B=sin^{-1}\frac{b*Sin(A)}{a}}"><br>
+
+Nun, da wir die Ableitung der Formel haben, können wir sie verwenden, um Winkel B zu berechnen:
+
+<img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}B=sin^{-1}\frac{92*Sin(110^{\circ}25'36'')}{102,87}}"><br><br>
+<img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}56^{\circ}56'23''=sin^{-1}\frac{92*Sin(110^{\circ}25'36'')}{102,87}}"><br>
+
+### Schritt 3: Berechnung von Winkel C
+
+Da die Summe der Innenwinkel eines Dreiecks 180° beträgt, können wir den Winkel C berechnen:
+
+<img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}C=180^{\circ}-A-B}"><br>
+<img src="https://latex.codecogs.com/svg.image?\large&space;{\color{Red}C=180^{\circ}-110^{\circ}25'36''-56^{\circ}56'23''}">
+
 Die Trigonometrie eröffnet uns eine faszinierende Welt der Berechnungen und geometrischen Zusammenhänge, die in vielen Bereichen Anwendung finden.
 
 Probier es selbst aus und entdecke die faszinierende Welt der Trigonometrie!
