@@ -3,7 +3,7 @@ lng_pair: kryptography
 title: Rolle der Mathematik in der Kryptographie
 subtitle: Wie die Mathematik in der Verschlüsselung und Entschlüsselung von Informationen verwendet wird
 category: [Kryptographie, Mathematik in der Technologie]
-tags: [Kryptographie, Mathematik, Verschlüsselung, Entschlüsselung]
+tags: [Kryptographie, Mathematik, Verschlüsselung, Entschlüsselung, Public-Key-Kryptosysteme, RSA-Algorithmus, Einwegfunktionen, Schlüsselaustausch, Diffie-Hellman, Digitale Signaturen, Kryptanalyse, Sicherheit, Informationssysteme]
 comments_disable: true
 date: 2023-08-04 20:00:00 -0400
 img: ":krypto.png"
